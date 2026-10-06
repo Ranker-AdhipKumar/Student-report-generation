@@ -28,6 +28,7 @@
 
 ## 📑 Table of Contents
 - [Executive Overview](#-executive-overview)
+- [🌐 Live Web Application & Dashboard](#-live-web-application--dashboard)
 - [System Architecture & Workflow](#-system-architecture--workflow)
 - [Repository Structure](#-repository-structure)
 - [Section 1: Data Exploration & Quality Audit](#-section-1-data-exploration--quality-audit)
@@ -54,6 +55,27 @@ Educational institutions and universities face significant retention challenges 
 
 ---
 
+## 🌐 Live Web Application & Dashboard
+
+Experience the complete model and interactive intervention system live in your browser:  
+🔗 **[https://ranker-adhipkumar.github.io/Student-report-generation/](https://ranker-adhipkumar.github.io/Student-report-generation/)**
+
+### 🎛️ Live Capabilities:
+1. **Interactive Real-Time Risk Predictor:**
+   - Adjust attendance sliders and fine-tune continuous assessment or exam scores.
+   - Live visual status indicators highlighting the **75% attendance cutoff** and **60 passing mark**.
+   - One-click presets (**High Risk**, **Medium Risk**, **Low Risk**) for quick demonstration.
+   - Dynamic terminal-style structured output with instant tailored recommendations.
+2. **Batch Report Explorer:**
+   - Search across processed student profiles by ID or student name.
+   - Filter records dynamically by risk tier (`High Risk`, `Medium Risk`, `Low Risk`).
+   - One-click **"Export Report (CSV)"** download.
+3. **Model Insights & Visual Analytics:**
+   - Interactive algorithm benchmark comparison table.
+   - High-resolution confusion matrices, feature importance graphs, and correlation heatmaps.
+
+---
+
 ## 🏗️ System Architecture & Workflow
 
 ```mermaid
@@ -73,6 +95,7 @@ flowchart TD
     M4 --> F["Root-Cause Diagnostic Engine"]
     F --> G["Individual Student Prediction<br/>(Structured Output)"]
     F --> H["Automated Institutional Reports<br/>(CSV & Markdown)"]
+    F --> I["🌐 Live Interactive Web Dashboard<br/>(GitHub Pages)"]
 ```
 
 ---
@@ -80,6 +103,7 @@ flowchart TD
 ## 📁 Repository Structure
 
 ```text
+├── index.html                      # Interactive live web application dashboard
 ├── dcs_student_data.csv            # Cleaned student dataset (10,030 records)
 ├── student_risk_analysis.ipynb     # Interactive Jupyter Notebook with complete analysis & plots
 ├── solution.py                     # Self-contained end-to-end Python pipeline
@@ -88,6 +112,10 @@ flowchart TD
 ├── requirements.txt                # Frozen production dependencies
 ├── LICENSE                         # MIT License
 ├── .gitignore                      # Python & environment ignore rules
+├── .nojekyll                       # GitHub Pages Jekyll bypass flag
+├── .github/
+│   └── workflows/
+│       └── deploy-pages.yml        # Automated GitHub Actions deployment workflow
 ├── images/                         # Publication-grade analytical plots
 │   ├── eda_attendance_vs_marks.png
 │   ├── eda_correlation_matrix.png
@@ -97,7 +125,8 @@ flowchart TD
 │   └── feature_importance.png
 ├── reports/                        # Automated institutional report exports
 │   ├── student_risk_report.csv     # Full batch report (Student | Attendance | Risk | Recommendation)
-│   └── student_risk_report.md      # Formatted Markdown table report preview
+│   ├── student_risk_report.md      # Formatted Markdown table report preview
+│   └── sample_students.json        # Client-side data powering the live web explorer
 └── README.md                       # Comprehensive documentation
 ```
 
@@ -311,6 +340,14 @@ python generate_visualizations.py
 jupyter notebook student_risk_analysis.ipynb
 ```
 *Walks through the entire data science story cell-by-cell with interactive charts, annotations, and individual query functions.*
+
+### 6. Launch or Preview the Web Dashboard Locally
+```bash
+# Start a lightweight local server:
+python -m http.server 8000
+# Then visit: http://localhost:8000 in your browser
+```
+*Or access the live hosted application directly on GitHub Pages: [https://ranker-adhipkumar.github.io/Student-report-generation/](https://ranker-adhipkumar.github.io/Student-report-generation/)*
 
 ---
 
