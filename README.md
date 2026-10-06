@@ -1,3 +1,10 @@
+# Multi-Track Recruitment Tasks (DCS & GDG Oct 2026)
+
+> 🏃 **Looking for the Frontend Web Project?**  
+> Check out the complete [PACELINE Running Store Frontend Documentation](FRONTEND_README.md) for setup instructions, responsive features, and live demo details!
+
+---
+
 # AI/ML Recruitment Task: Student Academic Risk & Intervention Recommendation System
 
 **Organization:** Developer Community SASTRA & Google Developer Groups (GDG) On Campus - SASTRA Deemed University  
