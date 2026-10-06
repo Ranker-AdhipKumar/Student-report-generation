@@ -1,0 +1,1052 @@
+[
+  {
+    "Student": "Omar Williams (S1000)",
+    "Attendance": "52.3%",
+    "Marks": 57.5,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 52.3% vs 75% cutoff). Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 26)."
+  },
+  {
+    "Student": "Maria Brown (S1001)",
+    "Attendance": "97.3%",
+    "Marks": 63.2,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (65 pts)."
+  },
+  {
+    "Student": "Ahmed Jones (S1002)",
+    "Attendance": "57.2%",
+    "Marks": 68.6,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 10)."
+  },
+  {
+    "Student": "Omar Williams (S1003)",
+    "Attendance": "95.2%",
+    "Marks": 56.8,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (56.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 22)."
+  },
+  {
+    "Student": "John Smith (S1004)",
+    "Attendance": "54.2%",
+    "Marks": 61.0,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 26)."
+  },
+  {
+    "Student": "Liam Brown (S1005)",
+    "Attendance": "81.1%",
+    "Marks": 57.9,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (57.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 40)."
+  },
+  {
+    "Student": "Ahmed Jones (S1006)",
+    "Attendance": "57.6%",
+    "Marks": 73.8,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 57.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 34)."
+  },
+  {
+    "Student": "Ahmed Smith (S1007)",
+    "Attendance": "51.9%",
+    "Marks": 64.8,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 51.9% vs 75% cutoff). Enroll in remedial workshops for Science (score: 17)."
+  },
+  {
+    "Student": "Omar Smith (S1008)",
+    "Attendance": "86.0%",
+    "Marks": 85.7,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 86.0%, Marks: 85.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Sara Smith (S1009)",
+    "Attendance": "64.0%",
+    "Marks": 72.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 64.0% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 22)."
+  },
+  {
+    "Student": "John Smith (S1010)",
+    "Attendance": "85.7%",
+    "Marks": 61.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (55 pts)."
+  },
+  {
+    "Student": "Omar Williams (S1011)",
+    "Attendance": "77.8%",
+    "Marks": 78.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 77.8% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "John Davis (S1012)",
+    "Attendance": "55.4%",
+    "Marks": 63.4,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 55.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 29)."
+  },
+  {
+    "Student": "John Williams (S1013)",
+    "Attendance": "96.6%",
+    "Marks": 68.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (18 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Liam Williams (S1014)",
+    "Attendance": "72.6%",
+    "Marks": 61.4,
+    "Risk": "HIGH",
+    "Recommendation": "Enroll in remedial workshops for Writing (score: 52). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Ahmed Jones (S1015)",
+    "Attendance": "86.7%",
+    "Marks": 52.1,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (52.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23)."
+  },
+  {
+    "Student": "Maria Jones (S1016)",
+    "Attendance": "75.0%",
+    "Marks": 72.2,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.0% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Liam Davis (S1017)",
+    "Attendance": "80.2%",
+    "Marks": 60.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (38 pts)."
+  },
+  {
+    "Student": "Liam Jones (S1018)",
+    "Attendance": "65.1%",
+    "Marks": 68.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 65.1% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (41 pts)."
+  },
+  {
+    "Student": "John Johnson (S1019)",
+    "Attendance": "60.0%",
+    "Marks": 65.2,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22)."
+  },
+  {
+    "Student": "Emma Davis (S1020)",
+    "Attendance": "77.1%",
+    "Marks": 70.9,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 77.1% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (37 pts)."
+  },
+  {
+    "Student": "Ahmed Jones (S1021)",
+    "Attendance": "72.0%",
+    "Marks": 60.9,
+    "Risk": "HIGH",
+    "Recommendation": "Enroll in remedial workshops for Mathematics (score: 25)."
+  },
+  {
+    "Student": "Sara Davis (S1022)",
+    "Attendance": "69.5%",
+    "Marks": 68.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 69.5% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (39 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Liam Williams (S1023)",
+    "Attendance": "83.6%",
+    "Marks": 81.4,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 83.6%, Marks: 81.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Maria Williams (S1024)",
+    "Attendance": "84.5%",
+    "Marks": 52.6,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (52.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Emma Davis (S1025)",
+    "Attendance": "52.3%",
+    "Marks": 84.8,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 52.3% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 38). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Emma Johnson (S1026)",
+    "Attendance": "66.9%",
+    "Marks": 80.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 66.9% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Sara Johnson (S1027)",
+    "Attendance": "70.6%",
+    "Marks": 83.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 70.6% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Liam Davis (S1028)",
+    "Attendance": "54.8%",
+    "Marks": 66.6,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 54.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 37)."
+  },
+  {
+    "Student": "Maria Jones (S1029)",
+    "Attendance": "61.8%",
+    "Marks": 65.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 61.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 49)."
+  },
+  {
+    "Student": "Ahmed Brown (S1030)",
+    "Attendance": "52.6%",
+    "Marks": 81.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 52.6% vs 75% cutoff)."
+  },
+  {
+    "Student": "Ali Johnson (S1031)",
+    "Attendance": "99.8%",
+    "Marks": 49.5,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (49.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Maria Smith (S1032)",
+    "Attendance": "77.2%",
+    "Marks": 48.1,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (48.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 11)."
+  },
+  {
+    "Student": "Sara Williams (S1033)",
+    "Attendance": "54.4%",
+    "Marks": 68.0,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 54.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 41). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Emma Davis (S1034)",
+    "Attendance": "51.0%",
+    "Marks": 76.6,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 51.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 32)."
+  },
+  {
+    "Student": "Ahmed Smith (S1035)",
+    "Attendance": "86.0%",
+    "Marks": 62.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Science (57 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Maria Davis (S1036)",
+    "Attendance": "72.0%",
+    "Marks": 77.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 72.0% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Ali Williams (S1037)",
+    "Attendance": "89.3%",
+    "Marks": 63.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (36 pts)."
+  },
+  {
+    "Student": "Ali Williams (S1038)",
+    "Attendance": "96.2%",
+    "Marks": 81.5,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 96.2%, Marks: 81.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "John Johnson (S1039)",
+    "Attendance": "80.0%",
+    "Marks": 75.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Increase classroom discussion participation."
+  },
+  {
+    "Student": "John Johnson (S1040)",
+    "Attendance": "59.4%",
+    "Marks": 58.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 59.4% vs 75% cutoff). Aggregate marks (58.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 38)."
+  },
+  {
+    "Student": "Omar Smith (S1041)",
+    "Attendance": "89.1%",
+    "Marks": 64.9,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (38 pts)."
+  },
+  {
+    "Student": "Sara Davis (S1042)",
+    "Attendance": "97.8%",
+    "Marks": 56.8,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (56.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 38)."
+  },
+  {
+    "Student": "Liam Williams (S1043)",
+    "Attendance": "79.0%",
+    "Marks": 66.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Science (71 pts)."
+  },
+  {
+    "Student": "Maria Smith (S1044)",
+    "Attendance": "84.1%",
+    "Marks": 75.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Increase classroom discussion participation."
+  },
+  {
+    "Student": "Maria Brown (S1045)",
+    "Attendance": "66.9%",
+    "Marks": 80.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 66.9% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Liam Smith (S1046)",
+    "Attendance": "53.4%",
+    "Marks": 75.8,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 53.4% vs 75% cutoff)."
+  },
+  {
+    "Student": "Omar Jones (S1047)",
+    "Attendance": "86.7%",
+    "Marks": 79.2,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 86.7%, Marks: 79.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Emma Smith (S1048)",
+    "Attendance": "96.4%",
+    "Marks": 90.5,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 96.4%, Marks: 90.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Emma Jones (S1049)",
+    "Attendance": "81.5%",
+    "Marks": 71.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Writing (48 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Omar Jones (S1050)",
+    "Attendance": "89.5%",
+    "Marks": 55.9,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (55.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 12)."
+  },
+  {
+    "Student": "Emma Jones (S1051)",
+    "Attendance": "58.6%",
+    "Marks": 83.5,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 58.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 42)."
+  },
+  {
+    "Student": "John Brown (S1052)",
+    "Attendance": "60.6%",
+    "Marks": 74.2,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 60.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 28)."
+  },
+  {
+    "Student": "Maria Smith (S1053)",
+    "Attendance": "76.6%",
+    "Marks": 82.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 76.6% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Omar Smith (S1054)",
+    "Attendance": "73.1%",
+    "Marks": 79.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 73.1% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Maria Brown (S1055)",
+    "Attendance": "81.8%",
+    "Marks": 78.1,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 81.8%, Marks: 78.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Liam Williams (S1056)",
+    "Attendance": "64.6%",
+    "Marks": 78.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 64.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 27)."
+  },
+  {
+    "Student": "Ali Johnson (S1057)",
+    "Attendance": "89.6%",
+    "Marks": 76.4,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 89.6%, Marks: 76.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "John Smith (S1058)",
+    "Attendance": "90.4%",
+    "Marks": 70.1,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (12 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ahmed Johnson (S1059)",
+    "Attendance": "73.2%",
+    "Marks": 72.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 73.2% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "John Davis (S1060)",
+    "Attendance": "59.0%",
+    "Marks": 81.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 59.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 32)."
+  },
+  {
+    "Student": "Omar Davis (S1061)",
+    "Attendance": "82.3%",
+    "Marks": 84.5,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 82.3%, Marks: 84.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Ahmed Brown (S1062)",
+    "Attendance": "99.6%",
+    "Marks": 67.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Reading (53 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ali Davis (S1063)",
+    "Attendance": "81.1%",
+    "Marks": 68.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (20 pts)."
+  },
+  {
+    "Student": "Omar Davis (S1064)",
+    "Attendance": "75.3%",
+    "Marks": 81.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.3% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Sara Williams (S1065)",
+    "Attendance": "50.9%",
+    "Marks": 67.8,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 50.9% vs 75% cutoff). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Maria Williams (S1066)",
+    "Attendance": "66.0%",
+    "Marks": 59.5,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 66.0% vs 75% cutoff). Aggregate marks (59.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 32)."
+  },
+  {
+    "Student": "Ali Williams (S1067)",
+    "Attendance": "59.8%",
+    "Marks": 66.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 59.8% vs 75% cutoff)."
+  },
+  {
+    "Student": "Maria Davis (S1068)",
+    "Attendance": "90.7%",
+    "Marks": 86.7,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 90.7%, Marks: 86.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Emma Brown (S1069)",
+    "Attendance": "92.2%",
+    "Marks": 66.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Writing (32 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Sara Jones (S1070)",
+    "Attendance": "75.3%",
+    "Marks": 69.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (24 pts)."
+  },
+  {
+    "Student": "Sara Jones (S1071)",
+    "Attendance": "66.3%",
+    "Marks": 85.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 66.3% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Ali Johnson (S1072)",
+    "Attendance": "61.8%",
+    "Marks": 62.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 61.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Sara Jones (S1073)",
+    "Attendance": "95.4%",
+    "Marks": 54.7,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (54.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Ahmed Jones (S1074)",
+    "Attendance": "75.1%",
+    "Marks": 82.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.1% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Sara Williams (S1075)",
+    "Attendance": "82.8%",
+    "Marks": 67.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Reading (30 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Maria Williams (S1076)",
+    "Attendance": "70.8%",
+    "Marks": 52.9,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (52.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 33). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Maria Davis (S1077)",
+    "Attendance": "81.5%",
+    "Marks": 83.1,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 81.5%, Marks: 83.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Omar Johnson (S1078)",
+    "Attendance": "69.3%",
+    "Marks": 78.2,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 69.3% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Maria Smith (S1079)",
+    "Attendance": "67.0%",
+    "Marks": 73.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 67.0% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Omar Johnson (S1080)",
+    "Attendance": "81.7%",
+    "Marks": 69.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (47 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Maria Johnson (S1081)",
+    "Attendance": "79.5%",
+    "Marks": 73.9,
+    "Risk": "MEDIUM",
+    "Recommendation": "Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ahmed Brown (S1082)",
+    "Attendance": "81.3%",
+    "Marks": 73.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Maintain consistent study schedule and monitor upcoming project milestones."
+  },
+  {
+    "Student": "Liam Davis (S1083)",
+    "Attendance": "57.5%",
+    "Marks": 61.5,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 57.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 34)."
+  },
+  {
+    "Student": "Omar Brown (S1084)",
+    "Attendance": "68.4%",
+    "Marks": 55.0,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 68.4% vs 75% cutoff). Aggregate marks (55.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 26)."
+  },
+  {
+    "Student": "John Johnson (S1085)",
+    "Attendance": "70.8%",
+    "Marks": 60.5,
+    "Risk": "HIGH",
+    "Recommendation": "Enroll in remedial workshops for Mathematics (score: 44)."
+  },
+  {
+    "Student": "Emma Johnson (S1086)",
+    "Attendance": "81.4%",
+    "Marks": 72.8,
+    "Risk": "MEDIUM",
+    "Recommendation": "Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ali Johnson (S1087)",
+    "Attendance": "95.7%",
+    "Marks": 69.8,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Writing (49 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Maria Jones (S1088)",
+    "Attendance": "57.1%",
+    "Marks": 53.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 57.1% vs 75% cutoff). Aggregate marks (53.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 43)."
+  },
+  {
+    "Student": "Sara Brown (S1089)",
+    "Attendance": "80.5%",
+    "Marks": 78.5,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 80.5%, Marks: 78.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Liam Johnson (S1090)",
+    "Attendance": "59.7%",
+    "Marks": 62.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 59.7% vs 75% cutoff). Enroll in remedial workshops for Science (score: 33)."
+  },
+  {
+    "Student": "Maria Williams (S1091)",
+    "Attendance": "75.1%",
+    "Marks": 65.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.1% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (42 pts)."
+  },
+  {
+    "Student": "Sara Davis (S1092)",
+    "Attendance": "71.5%",
+    "Marks": 81.9,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 71.5% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Emma Davis (S1093)",
+    "Attendance": "86.5%",
+    "Marks": 60.2,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Writing (18 pts)."
+  },
+  {
+    "Student": "Emma Williams (S1094)",
+    "Attendance": "60.0%",
+    "Marks": 75.1,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 23)."
+  },
+  {
+    "Student": "Emma Davis (S1095)",
+    "Attendance": "79.7%",
+    "Marks": 59.1,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (59.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 30). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Sara Jones (S1096)",
+    "Attendance": "94.2%",
+    "Marks": 61.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Science (59 pts)."
+  },
+  {
+    "Student": "Maria Jones (S1097)",
+    "Attendance": "95.5%",
+    "Marks": 68.9,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Science (27 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Emma Smith (S1098)",
+    "Attendance": "97.9%",
+    "Marks": 78.3,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 97.9%, Marks: 78.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Ahmed Smith (S1099)",
+    "Attendance": "88.7%",
+    "Marks": 57.5,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 0). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Omar Smith (S1100)",
+    "Attendance": "95.3%",
+    "Marks": 71.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (25 pts)."
+  },
+  {
+    "Student": "Sara Davis (S1101)",
+    "Attendance": "61.7%",
+    "Marks": 58.9,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 61.7% vs 75% cutoff). Aggregate marks (58.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 15)."
+  },
+  {
+    "Student": "Sara Jones (S1102)",
+    "Attendance": "59.9%",
+    "Marks": 72.0,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 59.9% vs 75% cutoff)."
+  },
+  {
+    "Student": "Maria Jones (S1103)",
+    "Attendance": "50.3%",
+    "Marks": 66.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 50.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 46). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Sara Jones (S1104)",
+    "Attendance": "85.3%",
+    "Marks": 75.5,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 85.3%, Marks: 75.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Sara Williams (S1105)",
+    "Attendance": "96.9%",
+    "Marks": 61.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (28 pts)."
+  },
+  {
+    "Student": "Emma Jones (S1106)",
+    "Attendance": "59.4%",
+    "Marks": 58.7,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 59.4% vs 75% cutoff). Aggregate marks (58.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 35)."
+  },
+  {
+    "Student": "Maria Williams (S1107)",
+    "Attendance": "81.8%",
+    "Marks": 79.2,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 81.8%, Marks: 79.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Emma Smith (S1108)",
+    "Attendance": "87.3%",
+    "Marks": 58.4,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (58.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 36)."
+  },
+  {
+    "Student": "Omar Smith (S1109)",
+    "Attendance": "96.4%",
+    "Marks": 68.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (71 pts)."
+  },
+  {
+    "Student": "Liam Davis (S1110)",
+    "Attendance": "82.3%",
+    "Marks": 52.8,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (52.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 37)."
+  },
+  {
+    "Student": "Omar Smith (S1111)",
+    "Attendance": "98.5%",
+    "Marks": 81.4,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 98.5%, Marks: 81.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Liam Davis (S1112)",
+    "Attendance": "67.2%",
+    "Marks": 69.5,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 67.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 44). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Emma Johnson (S1113)",
+    "Attendance": "67.5%",
+    "Marks": 82.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 67.5% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Omar Johnson (S1114)",
+    "Attendance": "77.2%",
+    "Marks": 65.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 77.2% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (54 pts)."
+  },
+  {
+    "Student": "Maria Brown (S1115)",
+    "Attendance": "69.2%",
+    "Marks": 50.9,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 69.2% vs 75% cutoff). Aggregate marks (50.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 28). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Ali Davis (S1116)",
+    "Attendance": "50.1%",
+    "Marks": 74.1,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 50.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 21)."
+  },
+  {
+    "Student": "Emma Brown (S1117)",
+    "Attendance": "71.6%",
+    "Marks": 71.1,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 71.6% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (40 pts)."
+  },
+  {
+    "Student": "Liam Brown (S1118)",
+    "Attendance": "87.6%",
+    "Marks": 63.9,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (18 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ahmed Johnson (S1119)",
+    "Attendance": "87.3%",
+    "Marks": 66.2,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Writing (29 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Liam Davis (S1120)",
+    "Attendance": "67.2%",
+    "Marks": 59.5,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 67.2% vs 75% cutoff). Aggregate marks (59.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 30). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Ahmed Johnson (S1121)",
+    "Attendance": "76.1%",
+    "Marks": 82.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 76.1% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Sara Brown (S1122)",
+    "Attendance": "68.0%",
+    "Marks": 80.5,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 68.0% to above 80% to avoid examination penalty."
+  },
+  {
+    "Student": "Omar Davis (S1123)",
+    "Attendance": "50.8%",
+    "Marks": 63.1,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 50.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 51)."
+  },
+  {
+    "Student": "Ahmed Brown (S1124)",
+    "Attendance": "78.1%",
+    "Marks": 89.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Maintain consistent study schedule and monitor upcoming project milestones."
+  },
+  {
+    "Student": "Liam Jones (S1125)",
+    "Attendance": "56.2%",
+    "Marks": 60.4,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 56.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20)."
+  },
+  {
+    "Student": "Sara Davis (S1126)",
+    "Attendance": "54.0%",
+    "Marks": 67.6,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 54.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 50)."
+  },
+  {
+    "Student": "Ali Davis (S1127)",
+    "Attendance": "87.8%",
+    "Marks": 68.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (65 pts)."
+  },
+  {
+    "Student": "Maria Brown (S1128)",
+    "Attendance": "50.5%",
+    "Marks": 84.2,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 50.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 23)."
+  },
+  {
+    "Student": "Maria Jones (S1129)",
+    "Attendance": "98.0%",
+    "Marks": 55.5,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (55.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9)."
+  },
+  {
+    "Student": "Maria Williams (S1130)",
+    "Attendance": "75.8%",
+    "Marks": 74.3,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.8% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ahmed Johnson (S1131)",
+    "Attendance": "99.2%",
+    "Marks": 91.2,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 99.2%, Marks: 91.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Ali Brown (S1132)",
+    "Attendance": "52.9%",
+    "Marks": 84.8,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 52.9% vs 75% cutoff). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "Ahmed Davis (S1133)",
+    "Attendance": "79.2%",
+    "Marks": 72.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Increase classroom discussion participation."
+  },
+  {
+    "Student": "Omar Johnson (S1134)",
+    "Attendance": "67.5%",
+    "Marks": 65.6,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 67.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25)."
+  },
+  {
+    "Student": "Ahmed Johnson (S1135)",
+    "Attendance": "92.2%",
+    "Marks": 84.0,
+    "Risk": "LOW",
+    "Recommendation": "Consistent academic standing (Attendance: 92.2%, Marks: 84.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+  },
+  {
+    "Student": "Ali Johnson (S1136)",
+    "Attendance": "75.3%",
+    "Marks": 67.0,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (44 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ali Williams (S1137)",
+    "Attendance": "63.0%",
+    "Marks": 88.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 63.0% vs 75% cutoff)."
+  },
+  {
+    "Student": "Omar Smith (S1138)",
+    "Attendance": "92.9%",
+    "Marks": 60.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Mathematics (41 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Ali Brown (S1139)",
+    "Attendance": "68.7%",
+    "Marks": 62.6,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 68.7% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 36)."
+  },
+  {
+    "Student": "Liam Smith (S1140)",
+    "Attendance": "50.8%",
+    "Marks": 56.9,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 50.8% vs 75% cutoff). Aggregate marks (56.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 31)."
+  },
+  {
+    "Student": "Ali Smith (S1141)",
+    "Attendance": "69.5%",
+    "Marks": 69.4,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 69.5% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (54 pts). Increase classroom discussion participation."
+  },
+  {
+    "Student": "Maria Smith (S1142)",
+    "Attendance": "82.7%",
+    "Marks": 53.6,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (53.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 39)."
+  },
+  {
+    "Student": "Liam Johnson (S1143)",
+    "Attendance": "62.7%",
+    "Marks": 79.3,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 62.7% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 17)."
+  },
+  {
+    "Student": "Liam Jones (S1144)",
+    "Attendance": "71.6%",
+    "Marks": 84.2,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 71.6% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Omar Johnson (S1145)",
+    "Attendance": "52.8%",
+    "Marks": 68.4,
+    "Risk": "HIGH",
+    "Recommendation": "Immediate attendance recovery required (current: 52.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 29). Clear pending assignment submissions with department TA."
+  },
+  {
+    "Student": "John Johnson (S1146)",
+    "Attendance": "79.4%",
+    "Marks": 52.5,
+    "Risk": "HIGH",
+    "Recommendation": "Aggregate marks (52.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 25)."
+  },
+  {
+    "Student": "John Davis (S1147)",
+    "Attendance": "87.8%",
+    "Marks": 60.6,
+    "Risk": "MEDIUM",
+    "Recommendation": "Strengthen exam prep in Science (9 pts)."
+  },
+  {
+    "Student": "Ali Davis (S1148)",
+    "Attendance": "70.7%",
+    "Marks": 89.7,
+    "Risk": "MEDIUM",
+    "Recommendation": "Improve attendance from 70.7% to above 80% to avoid examination penalty. Increase classroom discussion participation."
+  },
+  {
+    "Student": "Liam Smith (S1149)",
+    "Attendance": "71.0%",
+    "Marks": 65.4,
+    "Risk": "HIGH",
+    "Recommendation": "Clear pending assignment submissions with department TA."
+  }
+]

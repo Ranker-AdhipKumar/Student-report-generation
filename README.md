@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://ranker-adhipkumar.github.io/Student-report-generation/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-Launch%20Interactive%20Web%20App-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/Scikit--Learn-1.4%2B-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Model%20Accuracy-96.30%25-brightgreen" alt="Model Accuracy" />
@@ -16,6 +20,9 @@
   <img src="https://img.shields.io/badge/Dataset-10%2C000%20Students-blueviolet" alt="Dataset Size" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
 </p>
+
+> 🚀 **Live Interactive Web Application:** [https://ranker-adhipkumar.github.io/Student-report-generation/](https://ranker-adhipkumar.github.io/Student-report-generation/)  
+> Test individual student predictions, adjust attendance sliders, and search the batch report live in your browser!
 
 ---
 
