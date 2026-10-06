@@ -1,23 +1,22 @@
-# Multi-Track Recruitment Tasks (DCS & GDG Oct 2026)
+# EduPulse AI: Intelligent Student Academic Risk Assessment & Intervention System
 
-> 🏃 **Looking for the Frontend Web Project?**  
-> Check out the complete [PACELINE Running Store Frontend Documentation](FRONTEND_README.md) for setup instructions, responsive features, and live demo details!
+**An End-to-End Machine Learning Diagnostic Pipeline for Early Warning, Predictive Risk Classification, and Automated Remedial Recommendations**
 
----
-
-# AI/ML Recruitment Task: Student Academic Risk & Intervention Recommendation System
-
-**Organization:** Developer Community SASTRA & Google Developer Groups (GDG) On Campus - SASTRA Deemed University  
-**Task:** Student Academic Risk Identification & Personalized Intervention Recommendation  
-**Dataset:** [Kaggle: Student Dataset by Ganesh Kumar](https://www.kaggle.com/datasets/ganeshkumarofficial/student-dataset) (`dcs_student_data.csv`)
+**Dataset:** [Student Performance Dataset](https://www.kaggle.com/datasets/ganeshkumarofficial/student-dataset) (`dcs_student_data.csv`)  
+**Core Technologies:** Python, Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib
 
 ---
 
 ## 📌 Executive Summary
 
-Higher educational institutions require reliable, early-warning diagnostic systems to identify students at academic risk before end-semester examinations. Timely intervention allows faculty and mentors to allocate tutoring, schedule counseling, and remediate attendance deficits before students face debarment or academic probation.
+Higher educational institutions require reliable, early-warning diagnostic systems to identify students at academic risk well before end-semester examinations. Early detection enables academic advisors, faculty mentors, and counselors to allocate targeted tutoring, schedule personalized mentoring sessions, and remediate attendance deficits before students face exam debarment or academic probation.
 
-This repository provides an **end-to-end Machine Learning solution and automated reporting pipeline** developed specifically for the SASTRA AI/ML recruitment challenge, adhering strictly to best practices in data cleaning, model validation, and diagnostic recommendation generation.
+**EduPulse AI** delivers a production-grade Machine Learning solution and automated reporting pipeline designed to:
+1. **Audit & Preprocess Academic Telemetry:** Clean and handle missing values, out-of-bounds metrics, corrupted entries, and exact duplicates.
+2. **Formulate Institutional Risk Tiers:** Ground risk classifications in real-world university attendance bylaws and academic passing thresholds.
+3. **Train & Compare Predictive Models:** Benchmark **Logistic Regression**, **Decision Tree**, **Random Forest**, and **Gradient Boosting** classifiers with rigorous stratified validation.
+4. **Deliver Diagnostic Recommendations:** Generate personalized, student-specific intervention plans addressing root causes (attendance deficit, continuous assessment gaps, or subject-level struggles).
+5. **Automate Institutional Reporting:** Produce instant batch reports (`Student | Attendance | Marks | Risk | Recommendation`) for institutional leadership and department heads.
 
 ---
 
@@ -28,6 +27,7 @@ This repository provides an **end-to-end Machine Learning solution and automated
 ├── solution.py                     # Self-contained end-to-end Python pipeline
 ├── student_risk_analysis.ipynb     # Interactive Jupyter Notebook with analysis & plots
 ├── generate_visualizations.py      # Script to render publication-ready figures
+├── create_notebook.py              # Automated Jupyter notebook builder script
 ├── requirements.txt                # Frozen Python dependencies
 ├── images/                         # Generated visualizations and metric plots
 │   ├── eda_attendance_vs_marks.png
@@ -36,29 +36,29 @@ This repository provides an **end-to-end Machine Learning solution and automated
 │   ├── model_comparison_metrics.png
 │   ├── confusion_matrices.png
 │   └── feature_importance.png
-├── reports/                        # Automated bonus deliverables
+├── reports/                        # Automated reporting deliverables
 │   ├── student_risk_report.csv     # Full batch report (Student | Attendance | Risk | Recommendation)
 │   └── student_risk_report.md      # Formatted Markdown report preview
-└── README.md                       # Comprehensive documentation
+└── README.md                       # Comprehensive project documentation
 ```
 
 ---
 
 ## 🔍 Section 1: Exploratory Data Analysis & Data Quality Audit
 
-During exploratory analysis, an in-depth audit of the raw dataset (`10,030` rows, `21` columns) revealed several **deliberate anomalies and data corruptions** that were systematically identified and handled:
+During exploratory analysis, an in-depth audit of the raw dataset (`10,030` rows, `21` columns) revealed several **data quality anomalies and corruptions** that were systematically identified and handled:
 
 1. **Exact Duplicate Records:** 30 duplicate records were detected and purged.
 2. **Malformed String Types:** The `math_score` column was parsed as `object` (string) due to entries containing whitespace and escape sequences (e.g. `\t41`).
-3. **Out-of-Bounds Attendance:** Real percentages must strictly lie between 0% and 100%. The dataset contained invalid values such as `-12.0%` and `135.0%`.
+3. **Out-of-Bounds Attendance:** Percentages contained negative numbers (`-12.0%`) and values exceeding 100% (`135.0%`).
 4. **Out-of-Bounds Examination Scores:** `Midterm_Score` and `Final_Score` contained negative values (`-8.0`, `-5.0`) and scores exceeding the 100-point ceiling (`145.0`, `132.0`).
-5. **Biologically Implausible Ages:** `Age` contained negative numbers (`-3.0`) and senior ages (`87.0`).
+5. **Biologically Implausible Ages:** `Age` contained negative numbers (`-3.0`) and outlier values (`87.0`).
 6. **Inconsistent Categorical Text:**
-   - `Department`: Multiple representations for the same department (`"CS"` vs `"Computer Science"`, `"Math"` vs `"Mathematics"`, `"BUSINESS"` vs `"Business"`, and leading whitespaces like `" engineering"`).
+   - `Department`: Multiple representations for identical departments (`"CS"` vs `"Computer Science"`, `"Math"` vs `"Mathematics"`, `"BUSINESS"` vs `"Business"`, and leading whitespaces like `" engineering"`).
    - `Gender`: Trailing and leading whitespaces (`" MALE "`, `" FEMALE "`).
-7. **Missing Values:** ~2% null values were present across numeric performance columns.
+7. **Missing Values:** Approximately 2% null values were present across numeric performance columns.
 
-### Key EDA Finding: Attendance vs. Marks
+### Key Finding: Attendance vs. Academic Performance
 Analysis demonstrates that attendance is the primary leading indicator of academic performance. Students with attendance below the mandatory 75% threshold exhibit a high probability of failing or borderline grades, making early attendance tracking essential.
 
 ---
@@ -66,7 +66,7 @@ Analysis demonstrates that attendance is the primary leading indicator of academ
 ## ⚙️ Section 2: Data Preprocessing Pipeline
 
 To guarantee data integrity and prevent data leakage:
-1. **Deduplication:** Dropped exact duplicate rows, retaining 10,000 unique students.
+1. **Deduplication:** Dropped exact duplicate rows, retaining 10,000 unique student profiles.
 2. **Categorical Standardization:** Stripped whitespace and unified department names (`CS` $\rightarrow$ `Computer Science`, `Math` $\rightarrow$ `Mathematics`, etc.) and title-cased gender.
 3. **Type Restoration:** Cleaned and cast `math_score` to numeric floats.
 4. **Domain Boundary Clipping:** Constrained `Attendance (%)`, `Midterm_Score`, and `Final_Score` strictly to `[0.0, 100.0]`. Filtered anomalous ages outside `[15, 60]`.
@@ -79,7 +79,7 @@ To guarantee data integrity and prevent data leakage:
 
 ## 🎯 Section 3: Academic Risk Criteria Definition
 
-In institutional higher education (specifically technical universities like SASTRA Deemed University), risk classification must reflect regulatory cutoff rules and academic grading policies:
+In institutional higher education and technical universities, risk classification reflects regulatory cutoff rules and academic grading policies:
 
 ### 1. Regulatory Attendance Threshold (Mandatory 75% Cutoff)
 - **Attendance < 65%:** Severe risk of detention / exam debarment.
@@ -122,7 +122,7 @@ To evaluate model generalization, an **80/20 Stratified Split** was implemented.
 ### Evaluation Takeaways:
 - **Logistic Regression** serves as a fast baseline, capturing linear separation with ~81.9% accuracy.
 - **Tree Ensembles** significantly outperform linear boundaries due to non-linear combinations of attendance and subject thresholds.
-- **Gradient Boosting** achieved top performance with **96.30% Accuracy** and **96.31% F1-score**. Crucially, it achieved **0.98 Precision** and **0.96 Recall** on the **HIGH RISK** class, minimizing costly false negatives (students failing without intervention).
+- **Gradient Boosting** achieved top performance with **96.30% Accuracy** and **96.31% F1-score**. Crucially, it achieved **0.98 Precision** and **0.96 Recall** on the **HIGH RISK** class, minimizing costly false negatives (students failing without timely warning).
 
 ---
 
@@ -133,7 +133,7 @@ The recommendation engine performs diagnostic root-cause analysis on each studen
 2. Identifies specific course/subject weaknesses (e.g. Mathematics vs Science).
 3. Evaluates continuous assessment submission rates (assignments, quizzes, participation).
 
-### Sample Output (Matching Challenge Specification):
+### Sample Output Format:
 
 ```text
 Student: Omar Williams (S1000)
@@ -161,7 +161,7 @@ Recommendation: Consistent academic standing (Attendance: 88.5%, Marks: 82.1). R
 
 ---
 
-## ⚡ Section 6: Bonus Automation - Institutional Report
+## ⚡ Section 6: Automated Institutional Reporting
 
 The system includes automated batch report generation, saving the results in both CSV and Markdown formats:
 - CSV: `reports/student_risk_report.csv`
