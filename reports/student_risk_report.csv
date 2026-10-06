@@ -1,0 +1,1001 @@
+Student,Attendance,Marks,Risk,Recommendation
+Omar Williams (S1000),52.3%,57.5,HIGH,Immediate attendance recovery required (current: 52.3% vs 75% cutoff). Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 26).
+Maria Brown (S1001),97.3%,63.2,MEDIUM,Strengthen exam prep in Mathematics (65 pts).
+Ahmed Jones (S1002),57.2%,68.6,HIGH,Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 10).
+Omar Williams (S1003),95.2%,56.8,HIGH,Aggregate marks (56.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 22).
+John Smith (S1004),54.2%,61.0,HIGH,Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 26).
+Liam Brown (S1005),81.1%,57.9,HIGH,Aggregate marks (57.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 40).
+Ahmed Jones (S1006),57.6%,73.8,HIGH,Immediate attendance recovery required (current: 57.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 34).
+Ahmed Smith (S1007),51.9%,64.8,HIGH,Immediate attendance recovery required (current: 51.9% vs 75% cutoff). Enroll in remedial workshops for Science (score: 17).
+Omar Smith (S1008),86.0%,85.7,LOW,"Consistent academic standing (Attendance: 86.0%, Marks: 85.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Smith (S1009),64.0%,72.7,HIGH,Immediate attendance recovery required (current: 64.0% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 22).
+John Smith (S1010),85.7%,61.5,MEDIUM,Strengthen exam prep in Mathematics (55 pts).
+Omar Williams (S1011),77.8%,78.7,MEDIUM,Improve attendance from 77.8% to above 80% to avoid examination penalty.
+John Davis (S1012),55.4%,63.4,HIGH,Immediate attendance recovery required (current: 55.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 29).
+John Williams (S1013),96.6%,68.5,MEDIUM,Strengthen exam prep in Mathematics (18 pts). Increase classroom discussion participation.
+Liam Williams (S1014),72.6%,61.4,HIGH,Enroll in remedial workshops for Writing (score: 52). Clear pending assignment submissions with department TA.
+Ahmed Jones (S1015),86.7%,52.1,HIGH,Aggregate marks (52.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23).
+Maria Jones (S1016),75.0%,72.2,MEDIUM,Improve attendance from 75.0% to above 80% to avoid examination penalty.
+Liam Davis (S1017),80.2%,60.6,MEDIUM,Strengthen exam prep in Mathematics (38 pts).
+Liam Jones (S1018),65.1%,68.6,MEDIUM,Improve attendance from 65.1% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (41 pts).
+John Johnson (S1019),60.0%,65.2,HIGH,Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22).
+Emma Davis (S1020),77.1%,70.9,MEDIUM,Improve attendance from 77.1% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (37 pts).
+Ahmed Jones (S1021),72.0%,60.9,HIGH,Enroll in remedial workshops for Mathematics (score: 25).
+Sara Davis (S1022),69.5%,68.5,MEDIUM,Improve attendance from 69.5% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (39 pts). Increase classroom discussion participation.
+Liam Williams (S1023),83.6%,81.4,LOW,"Consistent academic standing (Attendance: 83.6%, Marks: 81.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Williams (S1024),84.5%,52.6,HIGH,Aggregate marks (52.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9). Clear pending assignment submissions with department TA.
+Emma Davis (S1025),52.3%,84.8,HIGH,Immediate attendance recovery required (current: 52.3% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 38). Clear pending assignment submissions with department TA.
+Emma Johnson (S1026),66.9%,80.0,MEDIUM,Improve attendance from 66.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Sara Johnson (S1027),70.6%,83.7,MEDIUM,Improve attendance from 70.6% to above 80% to avoid examination penalty.
+Liam Davis (S1028),54.8%,66.6,HIGH,Immediate attendance recovery required (current: 54.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 37).
+Maria Jones (S1029),61.8%,65.3,HIGH,Immediate attendance recovery required (current: 61.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 49).
+Ahmed Brown (S1030),52.6%,81.7,HIGH,Immediate attendance recovery required (current: 52.6% vs 75% cutoff).
+Ali Johnson (S1031),99.8%,49.5,HIGH,Aggregate marks (49.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9). Clear pending assignment submissions with department TA.
+Maria Smith (S1032),77.2%,48.1,HIGH,Aggregate marks (48.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 11).
+Sara Williams (S1033),54.4%,68.0,HIGH,Immediate attendance recovery required (current: 54.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 41). Clear pending assignment submissions with department TA.
+Emma Davis (S1034),51.0%,76.6,HIGH,Immediate attendance recovery required (current: 51.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 32).
+Ahmed Smith (S1035),86.0%,62.7,MEDIUM,Strengthen exam prep in Science (57 pts). Increase classroom discussion participation.
+Maria Davis (S1036),72.0%,77.4,MEDIUM,Improve attendance from 72.0% to above 80% to avoid examination penalty.
+Ali Williams (S1037),89.3%,63.7,MEDIUM,Strengthen exam prep in Mathematics (36 pts).
+Ali Williams (S1038),96.2%,81.5,LOW,"Consistent academic standing (Attendance: 96.2%, Marks: 81.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Johnson (S1039),80.0%,75.3,MEDIUM,Increase classroom discussion participation.
+John Johnson (S1040),59.4%,58.7,HIGH,Immediate attendance recovery required (current: 59.4% vs 75% cutoff). Aggregate marks (58.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 38).
+Omar Smith (S1041),89.1%,64.9,MEDIUM,Strengthen exam prep in Mathematics (38 pts).
+Sara Davis (S1042),97.8%,56.8,HIGH,Aggregate marks (56.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 38).
+Liam Williams (S1043),79.0%,66.4,MEDIUM,Strengthen exam prep in Science (71 pts).
+Maria Smith (S1044),84.1%,75.0,MEDIUM,Increase classroom discussion participation.
+Maria Brown (S1045),66.9%,80.7,MEDIUM,Improve attendance from 66.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Smith (S1046),53.4%,75.8,HIGH,Immediate attendance recovery required (current: 53.4% vs 75% cutoff).
+Omar Jones (S1047),86.7%,79.2,LOW,"Consistent academic standing (Attendance: 86.7%, Marks: 79.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Smith (S1048),96.4%,90.5,LOW,"Consistent academic standing (Attendance: 96.4%, Marks: 90.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Jones (S1049),81.5%,71.5,MEDIUM,Strengthen exam prep in Writing (48 pts). Increase classroom discussion participation.
+Omar Jones (S1050),89.5%,55.9,HIGH,Aggregate marks (55.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 12).
+Emma Jones (S1051),58.6%,83.5,HIGH,Immediate attendance recovery required (current: 58.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 42).
+John Brown (S1052),60.6%,74.2,HIGH,Immediate attendance recovery required (current: 60.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 28).
+Maria Smith (S1053),76.6%,82.5,MEDIUM,Improve attendance from 76.6% to above 80% to avoid examination penalty.
+Omar Smith (S1054),73.1%,79.3,MEDIUM,Improve attendance from 73.1% to above 80% to avoid examination penalty.
+Maria Brown (S1055),81.8%,78.1,LOW,"Consistent academic standing (Attendance: 81.8%, Marks: 78.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Williams (S1056),64.6%,78.7,HIGH,Immediate attendance recovery required (current: 64.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 27).
+Ali Johnson (S1057),89.6%,76.4,LOW,"Consistent academic standing (Attendance: 89.6%, Marks: 76.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Smith (S1058),90.4%,70.1,MEDIUM,Strengthen exam prep in Mathematics (12 pts). Increase classroom discussion participation.
+Ahmed Johnson (S1059),73.2%,72.6,MEDIUM,Improve attendance from 73.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+John Davis (S1060),59.0%,81.7,HIGH,Immediate attendance recovery required (current: 59.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 32).
+Omar Davis (S1061),82.3%,84.5,LOW,"Consistent academic standing (Attendance: 82.3%, Marks: 84.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Brown (S1062),99.6%,67.6,MEDIUM,Strengthen exam prep in Reading (53 pts). Increase classroom discussion participation.
+Ali Davis (S1063),81.1%,68.0,MEDIUM,Strengthen exam prep in Mathematics (20 pts).
+Omar Davis (S1064),75.3%,81.0,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty.
+Sara Williams (S1065),50.9%,67.8,HIGH,Immediate attendance recovery required (current: 50.9% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Maria Williams (S1066),66.0%,59.5,HIGH,Immediate attendance recovery required (current: 66.0% vs 75% cutoff). Aggregate marks (59.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 32).
+Ali Williams (S1067),59.8%,66.3,HIGH,Immediate attendance recovery required (current: 59.8% vs 75% cutoff).
+Maria Davis (S1068),90.7%,86.7,LOW,"Consistent academic standing (Attendance: 90.7%, Marks: 86.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Brown (S1069),92.2%,66.7,MEDIUM,Strengthen exam prep in Writing (32 pts). Increase classroom discussion participation.
+Sara Jones (S1070),75.3%,69.4,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (24 pts).
+Sara Jones (S1071),66.3%,85.0,MEDIUM,Improve attendance from 66.3% to above 80% to avoid examination penalty.
+Ali Johnson (S1072),61.8%,62.7,HIGH,Immediate attendance recovery required (current: 61.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20). Clear pending assignment submissions with department TA.
+Sara Jones (S1073),95.4%,54.7,HIGH,Aggregate marks (54.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23). Clear pending assignment submissions with department TA.
+Ahmed Jones (S1074),75.1%,82.5,MEDIUM,Improve attendance from 75.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Sara Williams (S1075),82.8%,67.6,MEDIUM,Strengthen exam prep in Reading (30 pts). Increase classroom discussion participation.
+Maria Williams (S1076),70.8%,52.9,HIGH,Aggregate marks (52.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 33). Clear pending assignment submissions with department TA.
+Maria Davis (S1077),81.5%,83.1,LOW,"Consistent academic standing (Attendance: 81.5%, Marks: 83.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Johnson (S1078),69.3%,78.2,MEDIUM,Improve attendance from 69.3% to above 80% to avoid examination penalty.
+Maria Smith (S1079),67.0%,73.3,MEDIUM,Improve attendance from 67.0% to above 80% to avoid examination penalty.
+Omar Johnson (S1080),81.7%,69.0,MEDIUM,Strengthen exam prep in Mathematics (47 pts). Increase classroom discussion participation.
+Maria Johnson (S1081),79.5%,73.9,MEDIUM,Increase classroom discussion participation.
+Ahmed Brown (S1082),81.3%,73.7,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Davis (S1083),57.5%,61.5,HIGH,Immediate attendance recovery required (current: 57.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 34).
+Omar Brown (S1084),68.4%,55.0,HIGH,Immediate attendance recovery required (current: 68.4% vs 75% cutoff). Aggregate marks (55.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 26).
+John Johnson (S1085),70.8%,60.5,HIGH,Enroll in remedial workshops for Mathematics (score: 44).
+Emma Johnson (S1086),81.4%,72.8,MEDIUM,Increase classroom discussion participation.
+Ali Johnson (S1087),95.7%,69.8,MEDIUM,Strengthen exam prep in Writing (49 pts). Increase classroom discussion participation.
+Maria Jones (S1088),57.1%,53.3,HIGH,Immediate attendance recovery required (current: 57.1% vs 75% cutoff). Aggregate marks (53.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 43).
+Sara Brown (S1089),80.5%,78.5,LOW,"Consistent academic standing (Attendance: 80.5%, Marks: 78.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Johnson (S1090),59.7%,62.3,HIGH,Immediate attendance recovery required (current: 59.7% vs 75% cutoff). Enroll in remedial workshops for Science (score: 33).
+Maria Williams (S1091),75.1%,65.0,MEDIUM,Improve attendance from 75.1% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (42 pts).
+Sara Davis (S1092),71.5%,81.9,MEDIUM,Improve attendance from 71.5% to above 80% to avoid examination penalty.
+Emma Davis (S1093),86.5%,60.2,MEDIUM,Strengthen exam prep in Writing (18 pts).
+Emma Williams (S1094),60.0%,75.1,HIGH,Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 23).
+Emma Davis (S1095),79.7%,59.1,HIGH,Aggregate marks (59.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 30). Clear pending assignment submissions with department TA.
+Sara Jones (S1096),94.2%,61.4,MEDIUM,Strengthen exam prep in Science (59 pts).
+Maria Jones (S1097),95.5%,68.9,MEDIUM,Strengthen exam prep in Science (27 pts). Increase classroom discussion participation.
+Emma Smith (S1098),97.9%,78.3,LOW,"Consistent academic standing (Attendance: 97.9%, Marks: 78.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Smith (S1099),88.7%,57.5,HIGH,Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 0). Clear pending assignment submissions with department TA.
+Omar Smith (S1100),95.3%,71.3,MEDIUM,Strengthen exam prep in Mathematics (25 pts).
+Sara Davis (S1101),61.7%,58.9,HIGH,Immediate attendance recovery required (current: 61.7% vs 75% cutoff). Aggregate marks (58.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 15).
+Sara Jones (S1102),59.9%,72.0,HIGH,Immediate attendance recovery required (current: 59.9% vs 75% cutoff).
+Maria Jones (S1103),50.3%,66.3,HIGH,Immediate attendance recovery required (current: 50.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 46). Clear pending assignment submissions with department TA.
+Sara Jones (S1104),85.3%,75.5,LOW,"Consistent academic standing (Attendance: 85.3%, Marks: 75.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Williams (S1105),96.9%,61.3,MEDIUM,Strengthen exam prep in Mathematics (28 pts).
+Emma Jones (S1106),59.4%,58.7,HIGH,Immediate attendance recovery required (current: 59.4% vs 75% cutoff). Aggregate marks (58.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 35).
+Maria Williams (S1107),81.8%,79.2,LOW,"Consistent academic standing (Attendance: 81.8%, Marks: 79.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Smith (S1108),87.3%,58.4,HIGH,Aggregate marks (58.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 36).
+Omar Smith (S1109),96.4%,68.6,MEDIUM,Strengthen exam prep in Mathematics (71 pts).
+Liam Davis (S1110),82.3%,52.8,HIGH,Aggregate marks (52.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 37).
+Omar Smith (S1111),98.5%,81.4,LOW,"Consistent academic standing (Attendance: 98.5%, Marks: 81.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1112),67.2%,69.5,HIGH,Immediate attendance recovery required (current: 67.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 44). Clear pending assignment submissions with department TA.
+Emma Johnson (S1113),67.5%,82.7,MEDIUM,Improve attendance from 67.5% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Johnson (S1114),77.2%,65.3,MEDIUM,Improve attendance from 77.2% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (54 pts).
+Maria Brown (S1115),69.2%,50.9,HIGH,Immediate attendance recovery required (current: 69.2% vs 75% cutoff). Aggregate marks (50.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 28). Clear pending assignment submissions with department TA.
+Ali Davis (S1116),50.1%,74.1,HIGH,Immediate attendance recovery required (current: 50.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 21).
+Emma Brown (S1117),71.6%,71.1,MEDIUM,Improve attendance from 71.6% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (40 pts).
+Liam Brown (S1118),87.6%,63.9,MEDIUM,Strengthen exam prep in Mathematics (18 pts). Increase classroom discussion participation.
+Ahmed Johnson (S1119),87.3%,66.2,MEDIUM,Strengthen exam prep in Writing (29 pts). Increase classroom discussion participation.
+Liam Davis (S1120),67.2%,59.5,HIGH,Immediate attendance recovery required (current: 67.2% vs 75% cutoff). Aggregate marks (59.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 30). Clear pending assignment submissions with department TA.
+Ahmed Johnson (S1121),76.1%,82.5,MEDIUM,Improve attendance from 76.1% to above 80% to avoid examination penalty.
+Sara Brown (S1122),68.0%,80.5,MEDIUM,Improve attendance from 68.0% to above 80% to avoid examination penalty.
+Omar Davis (S1123),50.8%,63.1,HIGH,Immediate attendance recovery required (current: 50.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 51).
+Ahmed Brown (S1124),78.1%,89.7,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Jones (S1125),56.2%,60.4,HIGH,Immediate attendance recovery required (current: 56.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20).
+Sara Davis (S1126),54.0%,67.6,HIGH,Immediate attendance recovery required (current: 54.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 50).
+Ali Davis (S1127),87.8%,68.6,MEDIUM,Strengthen exam prep in Mathematics (65 pts).
+Maria Brown (S1128),50.5%,84.2,HIGH,Immediate attendance recovery required (current: 50.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 23).
+Maria Jones (S1129),98.0%,55.5,HIGH,Aggregate marks (55.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9).
+Maria Williams (S1130),75.8%,74.3,MEDIUM,Improve attendance from 75.8% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ahmed Johnson (S1131),99.2%,91.2,LOW,"Consistent academic standing (Attendance: 99.2%, Marks: 91.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Brown (S1132),52.9%,84.8,HIGH,Immediate attendance recovery required (current: 52.9% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Ahmed Davis (S1133),79.2%,72.4,MEDIUM,Increase classroom discussion participation.
+Omar Johnson (S1134),67.5%,65.6,HIGH,Immediate attendance recovery required (current: 67.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25).
+Ahmed Johnson (S1135),92.2%,84.0,LOW,"Consistent academic standing (Attendance: 92.2%, Marks: 84.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Johnson (S1136),75.3%,67.0,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (44 pts). Increase classroom discussion participation.
+Ali Williams (S1137),63.0%,88.3,HIGH,Immediate attendance recovery required (current: 63.0% vs 75% cutoff).
+Omar Smith (S1138),92.9%,60.4,MEDIUM,Strengthen exam prep in Mathematics (41 pts). Increase classroom discussion participation.
+Ali Brown (S1139),68.7%,62.6,HIGH,Immediate attendance recovery required (current: 68.7% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 36).
+Liam Smith (S1140),50.8%,56.9,HIGH,Immediate attendance recovery required (current: 50.8% vs 75% cutoff). Aggregate marks (56.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 31).
+Ali Smith (S1141),69.5%,69.4,MEDIUM,Improve attendance from 69.5% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (54 pts). Increase classroom discussion participation.
+Maria Smith (S1142),82.7%,53.6,HIGH,Aggregate marks (53.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 39).
+Liam Johnson (S1143),62.7%,79.3,HIGH,Immediate attendance recovery required (current: 62.7% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 17).
+Liam Jones (S1144),71.6%,84.2,MEDIUM,Improve attendance from 71.6% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Johnson (S1145),52.8%,68.4,HIGH,Immediate attendance recovery required (current: 52.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 29). Clear pending assignment submissions with department TA.
+John Johnson (S1146),79.4%,52.5,HIGH,Aggregate marks (52.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 25).
+John Davis (S1147),87.8%,60.6,MEDIUM,Strengthen exam prep in Science (9 pts).
+Ali Davis (S1148),70.7%,89.7,MEDIUM,Improve attendance from 70.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Smith (S1149),71.0%,65.4,HIGH,Clear pending assignment submissions with department TA.
+John Johnson (S1150),54.4%,71.3,HIGH,Immediate attendance recovery required (current: 54.4% vs 75% cutoff). Clear pending assignment submissions with department TA.
+John Smith (S1151),60.1%,64.8,HIGH,Immediate attendance recovery required (current: 60.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 38).
+Ali Davis (S1152),57.7%,85.8,HIGH,Immediate attendance recovery required (current: 57.7% vs 75% cutoff).
+John Jones (S1153),74.1%,69.5,MEDIUM,Improve attendance from 74.1% to above 80% to avoid examination penalty. Strengthen exam prep in Science (34 pts).
+Ahmed Brown (S1154),76.5%,62.7,MEDIUM,Improve attendance from 76.5% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (68 pts).
+Sara Smith (S1155),88.2%,74.4,MEDIUM,Increase classroom discussion participation.
+Omar Jones (S1156),53.7%,56.7,HIGH,Immediate attendance recovery required (current: 53.7% vs 75% cutoff). Aggregate marks (56.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9).
+Sara Brown (S1157),80.0%,72.2,MEDIUM,Increase classroom discussion participation.
+Ali Williams (S1158),76.3%,61.2,MEDIUM,Improve attendance from 76.3% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (52 pts). Increase classroom discussion participation.
+Maria Smith (S1159),75.8%,76.7,MEDIUM,Improve attendance from 75.8% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Smith (S1160),93.7%,65.2,MEDIUM,Strengthen exam prep in Mathematics (0 pts). Increase classroom discussion participation.
+Ali Williams (S1161),60.3%,75.1,HIGH,Immediate attendance recovery required (current: 60.3% vs 75% cutoff). Enroll in remedial workshops for Science (score: 46).
+Liam Williams (S1162),52.0%,80.5,HIGH,Immediate attendance recovery required (current: 52.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 27).
+Maria Smith (S1163),83.6%,81.3,LOW,"Consistent academic standing (Attendance: 83.6%, Marks: 81.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Williams (S1164),89.2%,80.4,LOW,"Consistent academic standing (Attendance: 89.2%, Marks: 80.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Johnson (S1165),50.9%,72.5,HIGH,Immediate attendance recovery required (current: 50.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 16).
+Liam Brown (S1166),62.6%,77.9,HIGH,Immediate attendance recovery required (current: 62.6% vs 75% cutoff).
+Omar Brown (S1167),65.5%,52.8,HIGH,Immediate attendance recovery required (current: 65.5% vs 75% cutoff). Aggregate marks (52.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 32). Clear pending assignment submissions with department TA.
+Omar Brown (S1168),80.8%,77.5,LOW,"Consistent academic standing (Attendance: 80.8%, Marks: 77.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Johnson (S1169),58.6%,60.2,HIGH,Immediate attendance recovery required (current: 58.6% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 52).
+Liam Williams (S1170),70.7%,63.6,HIGH,Enroll in remedial workshops for Writing (score: 37).
+Ahmed Jones (S1171),74.1%,73.3,MEDIUM,Improve attendance from 74.1% to above 80% to avoid examination penalty.
+John Williams (S1172),73.0%,76.6,MEDIUM,Improve attendance from 73.0% to above 80% to avoid examination penalty.
+Maria Smith (S1173),98.7%,65.8,MEDIUM,Strengthen exam prep in Reading (51 pts). Increase classroom discussion participation.
+Liam Davis (S1174),55.9%,72.2,HIGH,Immediate attendance recovery required (current: 55.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 39). Clear pending assignment submissions with department TA.
+Emma Brown (S1175),97.5%,86.5,LOW,"Consistent academic standing (Attendance: 97.5%, Marks: 86.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Williams (S1176),75.3%,78.6,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty.
+John Jones (S1177),89.8%,77.0,LOW,"Consistent academic standing (Attendance: 89.8%, Marks: 77.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Smith (S1178),71.5%,55.3,HIGH,Aggregate marks (55.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 14).
+John Johnson (S1179),72.7%,80.0,MEDIUM,Improve attendance from 72.7% to above 80% to avoid examination penalty.
+Ahmed Johnson (S1180),94.0%,57.7,HIGH,Aggregate marks (57.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 29).
+Omar Jones (S1181),94.8%,78.0,LOW,"Consistent academic standing (Attendance: 94.8%, Marks: 78.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Smith (S1182),61.9%,85.4,HIGH,Immediate attendance recovery required (current: 61.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 49). Clear pending assignment submissions with department TA.
+John Brown (S1183),60.0%,80.4,HIGH,Immediate attendance recovery required (current: 60.0% vs 75% cutoff).
+Ali Williams (S1184),74.8%,84.7,MEDIUM,Improve attendance from 74.8% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ahmed Smith (S1185),95.0%,72.5,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Sara Johnson (S1186),66.1%,84.9,MEDIUM,Improve attendance from 66.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Jones (S1187),82.6%,73.0,MEDIUM,Increase classroom discussion participation.
+Omar Jones (S1188),85.4%,63.8,MEDIUM,Strengthen exam prep in Mathematics (16 pts).
+Emma Williams (S1189),88.9%,54.4,HIGH,Aggregate marks (54.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 37).
+Omar Jones (S1190),78.2%,73.1,MEDIUM,Increase classroom discussion participation.
+John Jones (S1191),70.1%,81.6,MEDIUM,Improve attendance from 70.1% to above 80% to avoid examination penalty.
+Ali Smith (S1192),98.3%,75.9,LOW,"Consistent academic standing (Attendance: 98.3%, Marks: 75.9). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Brown (S1193),80.6%,85.6,LOW,"Consistent academic standing (Attendance: 80.6%, Marks: 85.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Williams (S1194),86.4%,63.6,MEDIUM,Strengthen exam prep in Mathematics (58 pts). Increase classroom discussion participation.
+Sara Smith (S1195),67.2%,66.7,HIGH,Immediate attendance recovery required (current: 67.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 51). Clear pending assignment submissions with department TA.
+Sara Brown (S1196),83.5%,71.0,MEDIUM,Strengthen exam prep in Mathematics (45 pts).
+Maria Smith (S1197),62.9%,73.4,HIGH,Immediate attendance recovery required (current: 62.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 33).
+Ahmed Davis (S1198),62.2%,65.4,HIGH,Immediate attendance recovery required (current: 62.2% vs 75% cutoff). Enroll in remedial workshops for Science (score: 35).
+John Smith (S1199),85.7%,75.8,LOW,"Consistent academic standing (Attendance: 85.7%, Marks: 75.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Jones (S1200),76.1%,78.7,MEDIUM,Improve attendance from 76.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Brown (S1201),84.2%,70.0,MEDIUM,Strengthen exam prep in Reading (37 pts).
+Omar Williams (S1202),63.5%,69.5,HIGH,Immediate attendance recovery required (current: 63.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 39).
+Ali Williams (S1203),79.9%,74.1,MEDIUM,Increase classroom discussion participation.
+Maria Brown (S1204),72.2%,52.1,HIGH,Aggregate marks (52.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 8).
+Ahmed Jones (S1205),79.8%,76.1,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Johnson (S1206),64.5%,57.9,HIGH,Immediate attendance recovery required (current: 64.5% vs 75% cutoff). Aggregate marks (57.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 33). Clear pending assignment submissions with department TA.
+Maria Smith (S1207),85.8%,77.0,LOW,"Consistent academic standing (Attendance: 85.8%, Marks: 77.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Jones (S1208),90.3%,58.9,HIGH,Aggregate marks (58.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 30). Clear pending assignment submissions with department TA.
+Ahmed Davis (S1209),63.0%,76.7,HIGH,Immediate attendance recovery required (current: 63.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 54). Clear pending assignment submissions with department TA.
+Omar Brown (S1210),75.3%,78.2,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Smith (S1211),83.1%,52.4,HIGH,Aggregate marks (52.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 47). Clear pending assignment submissions with department TA.
+Ahmed Williams (S1212),71.1%,87.8,MEDIUM,Improve attendance from 71.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Johnson (S1213),85.2%,48.5,HIGH,Aggregate marks (48.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 10). Clear pending assignment submissions with department TA.
+John Davis (S1214),84.1%,47.5,HIGH,Aggregate marks (47.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 29).
+Ahmed Williams (S1215),69.6%,73.5,MEDIUM,Improve attendance from 69.6% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Brown (S1216),69.7%,72.8,MEDIUM,Improve attendance from 69.7% to above 80% to avoid examination penalty.
+Ahmed Smith (S1217),62.7%,59.0,HIGH,Immediate attendance recovery required (current: 62.7% vs 75% cutoff). Aggregate marks (59.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 35).
+Liam Brown (S1218),57.8%,85.5,HIGH,Immediate attendance recovery required (current: 57.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 49).
+Omar Smith (S1219),79.6%,72.9,MEDIUM,Increase classroom discussion participation.
+John Jones (S1220),54.7%,65.5,HIGH,Immediate attendance recovery required (current: 54.7% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 40).
+John Johnson (S1221),96.9%,86.2,LOW,"Consistent academic standing (Attendance: 96.9%, Marks: 86.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Jones (S1222),91.3%,72.7,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Maria Jones (S1223),92.9%,53.0,HIGH,Aggregate marks (53.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 15).
+Sara Brown (S1224),95.3%,76.7,LOW,"Consistent academic standing (Attendance: 95.3%, Marks: 76.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Johnson (S1225),70.4%,73.2,MEDIUM,Improve attendance from 70.4% to above 80% to avoid examination penalty.
+Ahmed Smith (S1226),92.3%,72.4,MEDIUM,Increase classroom discussion participation.
+Emma Smith (S1227),56.3%,84.1,HIGH,Immediate attendance recovery required (current: 56.3% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 51).
+Ali Davis (S1228),51.1%,77.2,HIGH,Immediate attendance recovery required (current: 51.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 16).
+Ahmed Williams (S1229),89.2%,57.3,HIGH,Aggregate marks (57.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 13). Clear pending assignment submissions with department TA.
+Emma Davis (S1230),53.7%,84.1,HIGH,Immediate attendance recovery required (current: 53.7% vs 75% cutoff). Enroll in remedial workshops for Science (score: 46).
+Maria Davis (S1231),99.4%,66.4,MEDIUM,Strengthen exam prep in Mathematics (11 pts).
+Maria Smith (S1232),83.7%,66.0,MEDIUM,Strengthen exam prep in Reading (38 pts). Increase classroom discussion participation.
+Maria Brown (S1233),87.7%,83.4,LOW,"Consistent academic standing (Attendance: 87.7%, Marks: 83.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Jones (S1234),62.3%,78.0,HIGH,Immediate attendance recovery required (current: 62.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 11).
+Maria Jones (S1235),83.7%,66.2,MEDIUM,Strengthen exam prep in Mathematics (54 pts).
+Emma Jones (S1236),52.2%,70.6,HIGH,Immediate attendance recovery required (current: 52.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 21).
+Emma Johnson (S1237),91.9%,69.4,MEDIUM,Strengthen exam prep in Mathematics (48 pts). Increase classroom discussion participation.
+John Smith (S1238),60.9%,55.1,HIGH,Immediate attendance recovery required (current: 60.9% vs 75% cutoff). Aggregate marks (55.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 40).
+Liam Brown (S1239),84.9%,84.3,LOW,"Consistent academic standing (Attendance: 84.9%, Marks: 84.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Johnson (S1240),61.2%,85.2,HIGH,Immediate attendance recovery required (current: 61.2% vs 75% cutoff).
+Omar Williams (S1241),53.4%,74.2,HIGH,Immediate attendance recovery required (current: 53.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 19).
+Maria Brown (S1242),74.1%,75.0,MEDIUM,Improve attendance from 74.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Davis (S1243),58.5%,65.0,HIGH,Immediate attendance recovery required (current: 58.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 52).
+Omar Brown (S1244),75.3%,81.1,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Brown (S1245),61.9%,63.4,HIGH,Immediate attendance recovery required (current: 61.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25).
+Ali Jones (S1246),75.3%,53.5,HIGH,Aggregate marks (53.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 39).
+Ali Brown (S1247),78.4%,85.2,MEDIUM,Increase classroom discussion participation.
+Ali Davis (S1248),64.2%,77.9,HIGH,Immediate attendance recovery required (current: 64.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 24). Clear pending assignment submissions with department TA.
+John Davis (S1249),51.8%,71.4,HIGH,Immediate attendance recovery required (current: 51.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 26).
+Emma Smith (S1250),90.8%,56.6,HIGH,Aggregate marks (56.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 41). Clear pending assignment submissions with department TA.
+Ali Brown (S1251),59.0%,68.6,HIGH,Immediate attendance recovery required (current: 59.0% vs 75% cutoff). Enroll in remedial workshops for Science (score: 46).
+Maria Jones (S1252),54.1%,71.7,HIGH,Immediate attendance recovery required (current: 54.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 43).
+Ahmed Brown (S1253),66.4%,69.3,MEDIUM,Improve attendance from 66.4% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (41 pts). Increase classroom discussion participation.
+Ali Williams (S1254),71.2%,75.0,MEDIUM,Improve attendance from 71.2% to above 80% to avoid examination penalty.
+John Williams (S1255),77.1%,75.0,MEDIUM,Improve attendance from 77.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Jones (S1256),68.6%,75.2,MEDIUM,Improve attendance from 68.6% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Smith (S1257),89.5%,82.5,LOW,"Consistent academic standing (Attendance: 89.5%, Marks: 82.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Smith (S1258),52.0%,72.8,HIGH,Immediate attendance recovery required (current: 52.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22).
+John Davis (S1259),71.6%,82.0,MEDIUM,Improve attendance from 71.6% to above 80% to avoid examination penalty.
+Ali Davis (S1260),69.1%,94.1,MEDIUM,Improve attendance from 69.1% to above 80% to avoid examination penalty.
+Emma Johnson (S1261),82.4%,88.6,LOW,"Consistent academic standing (Attendance: 82.4%, Marks: 88.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Jones (S1262),98.3%,59.9,HIGH,Aggregate marks (59.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 52).
+Ali Brown (S1263),75.5%,84.4,MEDIUM,Improve attendance from 75.5% to above 80% to avoid examination penalty.
+John Jones (S1264),99.3%,63.9,MEDIUM,Strengthen exam prep in Writing (60 pts). Increase classroom discussion participation.
+Sara Johnson (S1265),65.1%,83.5,MEDIUM,Improve attendance from 65.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Davis (S1266),51.5%,81.0,HIGH,Immediate attendance recovery required (current: 51.5% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Liam Jones (S1267),58.3%,75.1,HIGH,Immediate attendance recovery required (current: 58.3% vs 75% cutoff). Enroll in remedial workshops for Science (score: 47).
+Omar Jones (S1268),69.8%,69.9,MEDIUM,Improve attendance from 69.8% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (53 pts).
+John Davis (S1269),57.2%,66.0,HIGH,Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Emma Johnson (S1270),60.0%,56.9,HIGH,Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Aggregate marks (56.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 0). Clear pending assignment submissions with department TA.
+Liam Davis (S1271),71.6%,88.5,MEDIUM,Improve attendance from 71.6% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Smith (S1272),66.9%,69.1,MEDIUM,Improve attendance from 66.9% to above 80% to avoid examination penalty. Strengthen exam prep in Science (54 pts). Increase classroom discussion participation.
+Liam Brown (S1273),55.4%,72.2,HIGH,Immediate attendance recovery required (current: 55.4% vs 75% cutoff). Enroll in remedial workshops for Science (score: 42). Clear pending assignment submissions with department TA.
+Ali Davis (S1274),64.8%,74.3,HIGH,Immediate attendance recovery required (current: 64.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 16).
+Maria Johnson (S1275),94.3%,64.0,MEDIUM,Strengthen exam prep in Writing (50 pts). Increase classroom discussion participation.
+Ali Williams (S1276),99.1%,73.3,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Emma Smith (S1277),85.7%,65.9,MEDIUM,Strengthen exam prep in Mathematics (33 pts). Increase classroom discussion participation.
+Ali Williams (S1278),80.6%,59.4,HIGH,Aggregate marks (59.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 38).
+Sara Davis (S1279),71.4%,79.6,MEDIUM,Improve attendance from 71.4% to above 80% to avoid examination penalty.
+Maria Smith (S1280),62.0%,72.6,HIGH,Immediate attendance recovery required (current: 62.0% vs 75% cutoff). Enroll in remedial workshops for Science (score: 32).
+Maria Brown (S1281),68.5%,48.5,HIGH,Immediate attendance recovery required (current: 68.5% vs 75% cutoff). Aggregate marks (48.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 20).
+Emma Davis (S1282),79.6%,61.0,MEDIUM,Strengthen exam prep in Mathematics (17 pts).
+Omar Brown (S1283),87.4%,78.0,LOW,"Consistent academic standing (Attendance: 87.4%, Marks: 78.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Jones (S1284),60.7%,58.2,HIGH,Immediate attendance recovery required (current: 60.7% vs 75% cutoff). Aggregate marks (58.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 48).
+John Williams (S1285),55.8%,65.4,HIGH,Immediate attendance recovery required (current: 55.8% vs 75% cutoff). Enroll in remedial workshops for Science (score: 44).
+Ali Smith (S1286),64.0%,75.7,HIGH,Immediate attendance recovery required (current: 64.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 41).
+Ahmed Brown (S1287),72.0%,82.2,MEDIUM,Improve attendance from 72.0% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Johnson (S1288),81.3%,75.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Brown (S1289),74.5%,72.2,MEDIUM,Improve attendance from 74.5% to above 80% to avoid examination penalty.
+Ali Johnson (S1290),93.6%,72.0,MEDIUM,Increase classroom discussion participation.
+John Davis (S1291),77.3%,70.1,MEDIUM,Improve attendance from 77.3% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (35 pts).
+Ali Smith (S1292),74.0%,46.1,HIGH,Aggregate marks (46.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 11).
+Sara Brown (S1293),96.2%,77.0,LOW,"Consistent academic standing (Attendance: 96.2%, Marks: 77.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Brown (S1294),81.0%,79.1,LOW,"Consistent academic standing (Attendance: 81.0%, Marks: 79.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Smith (S1295),55.6%,85.2,HIGH,Immediate attendance recovery required (current: 55.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 37).
+Emma Brown (S1296),58.9%,54.6,HIGH,Immediate attendance recovery required (current: 58.9% vs 75% cutoff). Aggregate marks (54.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 39).
+Omar Johnson (S1297),89.4%,69.4,MEDIUM,Strengthen exam prep in Mathematics (49 pts).
+Ahmed Brown (S1298),91.8%,73.7,MEDIUM,Increase classroom discussion participation.
+Liam Williams (S1299),77.3%,82.1,MEDIUM,Improve attendance from 77.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Davis (S1300),77.7%,70.1,MEDIUM,Improve attendance from 77.7% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (17 pts).
+Ali Jones (S1301),81.6%,59.8,HIGH,Aggregate marks (59.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 25).
+John Johnson (S1302),72.0%,67.5,HIGH,Improve attendance and focus on upcoming assessments.
+Emma Williams (S1303),84.0%,75.5,LOW,"Consistent academic standing (Attendance: 84.0%, Marks: 75.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Davis (S1304),55.4%,75.6,HIGH,Immediate attendance recovery required (current: 55.4% vs 75% cutoff). Enroll in remedial workshops for Science (score: 10).
+Ahmed Smith (S1305),98.1%,83.3,LOW,"Consistent academic standing (Attendance: 98.1%, Marks: 83.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1306),87.5%,75.0,MEDIUM,Increase classroom discussion participation.
+Sara Jones (S1307),81.6%,85.7,LOW,"Consistent academic standing (Attendance: 81.6%, Marks: 85.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1308),65.8%,67.6,HIGH,Immediate attendance recovery required (current: 65.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 26). Clear pending assignment submissions with department TA.
+Emma Jones (S1309),58.0%,62.1,HIGH,Immediate attendance recovery required (current: 58.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25).
+Liam Smith (S1310),70.5%,60.7,HIGH,Improve attendance and focus on upcoming assessments.
+Omar Smith (S1311),83.1%,94.4,LOW,"Consistent academic standing (Attendance: 83.1%, Marks: 94.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1312),73.5%,73.1,MEDIUM,Improve attendance from 73.5% to above 80% to avoid examination penalty.
+Omar Brown (S1313),69.1%,74.6,MEDIUM,Improve attendance from 69.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+John Smith (S1314),80.7%,53.2,HIGH,Aggregate marks (53.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 25). Clear pending assignment submissions with department TA.
+Liam Davis (S1315),90.7%,68.0,MEDIUM,Strengthen exam prep in Science (49 pts).
+John Brown (S1316),51.3%,47.8,HIGH,Immediate attendance recovery required (current: 51.3% vs 75% cutoff). Aggregate marks (47.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 17).
+Ali Williams (S1317),72.5%,66.6,HIGH,Clear pending assignment submissions with department TA.
+Omar Jones (S1318),58.1%,83.6,HIGH,Immediate attendance recovery required (current: 58.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 29).
+Emma Brown (S1319),77.3%,55.8,HIGH,Aggregate marks (55.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 37).
+Liam Jones (S1320),82.6%,66.6,MEDIUM,Strengthen exam prep in Writing (16 pts).
+Ahmed Brown (S1321),75.8%,65.3,MEDIUM,Improve attendance from 75.8% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (60 pts).
+Maria Williams (S1322),99.6%,74.4,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Sara Smith (S1323),52.7%,75.3,HIGH,Immediate attendance recovery required (current: 52.7% vs 75% cutoff). Enroll in remedial workshops for Science (score: 40).
+Emma Williams (S1324),74.5%,53.8,HIGH,Aggregate marks (53.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 34).
+Emma Smith (S1325),54.6%,70.1,HIGH,Immediate attendance recovery required (current: 54.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 9). Clear pending assignment submissions with department TA.
+John Smith (S1326),58.0%,77.9,HIGH,Immediate attendance recovery required (current: 58.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 35).
+Omar Jones (S1327),69.2%,90.7,MEDIUM,Improve attendance from 69.2% to above 80% to avoid examination penalty.
+Liam Davis (S1328),57.8%,56.3,HIGH,Immediate attendance recovery required (current: 57.8% vs 75% cutoff). Aggregate marks (56.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 47). Clear pending assignment submissions with department TA.
+Liam Williams (S1329),98.2%,74.1,MEDIUM,Increase classroom discussion participation.
+Ali Brown (S1330),97.3%,84.7,LOW,"Consistent academic standing (Attendance: 97.3%, Marks: 84.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Williams (S1331),66.8%,81.4,MEDIUM,Improve attendance from 66.8% to above 80% to avoid examination penalty.
+Maria Jones (S1332),82.0%,80.7,LOW,"Consistent academic standing (Attendance: 82.0%, Marks: 80.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Smith (S1333),76.7%,81.0,MEDIUM,Improve attendance from 76.7% to above 80% to avoid examination penalty.
+Emma Jones (S1334),90.8%,69.3,MEDIUM,Strengthen exam prep in Mathematics (30 pts). Increase classroom discussion participation.
+Liam Johnson (S1335),81.4%,82.0,LOW,"Consistent academic standing (Attendance: 81.4%, Marks: 82.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Johnson (S1336),50.0%,64.9,HIGH,Immediate attendance recovery required (current: 50.0% vs 75% cutoff). Clear pending assignment submissions with department TA.
+John Brown (S1337),88.2%,74.8,LOW,"Consistent academic standing (Attendance: 88.2%, Marks: 74.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Jones (S1338),87.3%,73.5,MEDIUM,Increase classroom discussion participation.
+Maria Brown (S1339),75.5%,58.3,HIGH,Aggregate marks (58.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 30).
+John Brown (S1340),95.2%,69.8,MEDIUM,Strengthen exam prep in Mathematics (61 pts).
+Maria Johnson (S1341),95.4%,70.4,MEDIUM,Strengthen exam prep in Mathematics (61 pts).
+John Brown (S1342),76.2%,83.2,MEDIUM,Improve attendance from 76.2% to above 80% to avoid examination penalty.
+Sara Johnson (S1343),80.4%,78.5,LOW,"Consistent academic standing (Attendance: 80.4%, Marks: 78.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Smith (S1344),99.8%,77.7,LOW,"Consistent academic standing (Attendance: 99.8%, Marks: 77.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Jones (S1345),64.9%,78.2,HIGH,Immediate attendance recovery required (current: 64.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 43). Clear pending assignment submissions with department TA.
+John Brown (S1346),66.2%,70.4,MEDIUM,Improve attendance from 66.2% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (64 pts).
+Maria Johnson (S1347),59.1%,74.4,HIGH,Immediate attendance recovery required (current: 59.1% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 17).
+Liam Williams (S1348),94.8%,62.3,MEDIUM,Strengthen exam prep in Mathematics (17 pts). Increase classroom discussion participation.
+Omar Brown (S1349),87.2%,84.5,LOW,"Consistent academic standing (Attendance: 87.2%, Marks: 84.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Davis (S1350),55.3%,63.5,HIGH,Immediate attendance recovery required (current: 55.3% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 36). Clear pending assignment submissions with department TA.
+Ali Smith (S1351),99.1%,63.1,MEDIUM,Strengthen exam prep in Science (66 pts). Increase classroom discussion participation.
+Ali Smith (S1352),86.5%,62.9,MEDIUM,Strengthen exam prep in Reading (44 pts).
+Liam Williams (S1353),92.5%,65.1,MEDIUM,Strengthen exam prep in Mathematics (24 pts). Increase classroom discussion participation.
+Liam Johnson (S1354),60.4%,82.9,HIGH,Immediate attendance recovery required (current: 60.4% vs 75% cutoff). Enroll in remedial workshops for Science (score: 54).
+Omar Brown (S1355),75.2%,68.1,MEDIUM,Improve attendance from 75.2% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (19 pts). Increase classroom discussion participation.
+Sara Johnson (S1356),84.9%,60.9,MEDIUM,Strengthen exam prep in Mathematics (52 pts). Increase classroom discussion participation.
+Liam Smith (S1357),77.2%,76.3,MEDIUM,Improve attendance from 77.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Johnson (S1358),83.3%,58.8,HIGH,Aggregate marks (58.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 12).
+John Smith (S1359),85.8%,88.4,LOW,"Consistent academic standing (Attendance: 85.8%, Marks: 88.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1360),68.7%,83.1,MEDIUM,Improve attendance from 68.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Williams (S1361),92.4%,64.5,MEDIUM,Strengthen exam prep in Mathematics (20 pts). Increase classroom discussion participation.
+Ali Jones (S1362),58.1%,56.8,HIGH,Immediate attendance recovery required (current: 58.1% vs 75% cutoff). Aggregate marks (56.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 17).
+Sara Williams (S1363),63.5%,81.7,HIGH,Immediate attendance recovery required (current: 63.5% vs 75% cutoff).
+Omar Williams (S1364),100.0%,83.7,LOW,"Consistent academic standing (Attendance: 100.0%, Marks: 83.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Jones (S1365),68.2%,76.0,MEDIUM,Improve attendance from 68.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Jones (S1366),69.0%,56.7,HIGH,Immediate attendance recovery required (current: 69.0% vs 75% cutoff). Aggregate marks (56.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 31).
+Sara Brown (S1367),90.3%,87.2,LOW,"Consistent academic standing (Attendance: 90.3%, Marks: 87.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Brown (S1368),82.7%,65.0,MEDIUM,Strengthen exam prep in Reading (26 pts). Increase classroom discussion participation.
+Omar Williams (S1369),71.8%,67.1,HIGH,Enroll in remedial workshops for Science (score: 47).
+Maria Williams (S1370),82.6%,80.1,LOW,"Consistent academic standing (Attendance: 82.6%, Marks: 80.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Smith (S1371),52.6%,92.1,HIGH,Immediate attendance recovery required (current: 52.6% vs 75% cutoff).
+Sara Smith (S1372),59.0%,64.2,HIGH,Immediate attendance recovery required (current: 59.0% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 34). Clear pending assignment submissions with department TA.
+Liam Brown (S1373),81.3%,46.9,HIGH,Aggregate marks (46.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 26). Clear pending assignment submissions with department TA.
+Ali Davis (S1374),82.1%,72.2,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Maria Davis (S1375),88.7%,68.8,MEDIUM,Strengthen exam prep in Mathematics (25 pts).
+Maria Brown (S1376),70.2%,50.3,HIGH,Aggregate marks (50.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 6).
+Ali Smith (S1377),86.1%,81.2,LOW,"Consistent academic standing (Attendance: 86.1%, Marks: 81.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Smith (S1378),62.6%,87.0,HIGH,Immediate attendance recovery required (current: 62.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 53).
+Ali Davis (S1379),73.2%,74.2,MEDIUM,Improve attendance from 73.2% to above 80% to avoid examination penalty.
+Liam Johnson (S1380),60.8%,71.3,HIGH,Immediate attendance recovery required (current: 60.8% vs 75% cutoff). Enroll in remedial workshops for Science (score: 27).
+Emma Johnson (S1381),77.6%,53.2,HIGH,Aggregate marks (53.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 38).
+Maria Smith (S1382),80.1%,63.5,MEDIUM,Strengthen exam prep in Mathematics (23 pts).
+Ahmed Johnson (S1383),99.9%,60.8,MEDIUM,Strengthen exam prep in Science (43 pts). Increase classroom discussion participation.
+Ahmed Jones (S1384),60.1%,43.8,HIGH,Immediate attendance recovery required (current: 60.1% vs 75% cutoff). Aggregate marks (43.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 13).
+Liam Brown (S1385),76.2%,77.9,MEDIUM,Improve attendance from 76.2% to above 80% to avoid examination penalty.
+John Brown (S1386),67.3%,69.6,MEDIUM,Improve attendance from 67.3% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (17 pts). Increase classroom discussion participation.
+Omar Smith (S1387),76.3%,66.7,MEDIUM,Improve attendance from 76.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (18 pts). Increase classroom discussion participation.
+Ali Williams (S1388),61.6%,70.4,HIGH,Immediate attendance recovery required (current: 61.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 45). Clear pending assignment submissions with department TA.
+Ali Davis (S1389),52.4%,63.5,HIGH,Immediate attendance recovery required (current: 52.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 38).
+John Smith (S1390),78.6%,81.4,MEDIUM,Increase classroom discussion participation.
+John Johnson (S1391),66.8%,66.2,HIGH,Immediate attendance recovery required (current: 66.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 48). Clear pending assignment submissions with department TA.
+Liam Davis (S1392),59.1%,53.3,HIGH,Immediate attendance recovery required (current: 59.1% vs 75% cutoff). Aggregate marks (53.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 19).
+Liam Williams (S1393),66.2%,60.5,HIGH,Immediate attendance recovery required (current: 66.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 53). Clear pending assignment submissions with department TA.
+John Johnson (S1394),52.5%,47.8,HIGH,Immediate attendance recovery required (current: 52.5% vs 75% cutoff). Aggregate marks (47.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 21).
+Maria Jones (S1395),97.5%,74.1,MEDIUM,Increase classroom discussion participation.
+Liam Johnson (S1396),79.1%,59.2,HIGH,Aggregate marks (59.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 36).
+Emma Jones (S1397),90.7%,83.8,LOW,"Consistent academic standing (Attendance: 90.7%, Marks: 83.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1398),71.2%,83.2,MEDIUM,Improve attendance from 71.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Jones (S1399),95.2%,60.0,HIGH,Enroll in remedial workshops for Mathematics (score: 27).
+Liam Davis (S1400),74.2%,76.2,MEDIUM,Improve attendance from 74.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Davis (S1401),78.7%,76.4,MEDIUM,Increase classroom discussion participation.
+John Davis (S1402),74.6%,86.8,MEDIUM,Improve attendance from 74.6% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Davis (S1403),86.7%,57.7,HIGH,Aggregate marks (57.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 29). Clear pending assignment submissions with department TA.
+Liam Davis (S1404),78.3%,68.6,MEDIUM,Strengthen exam prep in Mathematics (25 pts).
+Maria Johnson (S1405),63.6%,53.9,HIGH,Immediate attendance recovery required (current: 63.6% vs 75% cutoff). Aggregate marks (53.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 25).
+Emma Davis (S1406),57.3%,72.5,HIGH,Immediate attendance recovery required (current: 57.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 54). Clear pending assignment submissions with department TA.
+Liam Johnson (S1407),80.3%,55.3,HIGH,Aggregate marks (55.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 17).
+Maria Davis (S1408),74.5%,64.5,HIGH,Enroll in remedial workshops for Reading (score: 46). Clear pending assignment submissions with department TA.
+Emma Jones (S1409),54.8%,58.0,HIGH,Immediate attendance recovery required (current: 54.8% vs 75% cutoff). Aggregate marks (58.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 27).
+John Davis (S1410),69.8%,63.0,HIGH,Immediate attendance recovery required (current: 69.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 44).
+Liam Williams (S1411),75.7%,62.1,MEDIUM,Improve attendance from 75.7% to above 80% to avoid examination penalty. Strengthen exam prep in Science (26 pts). Increase classroom discussion participation.
+Emma Davis (S1412),91.3%,69.3,MEDIUM,Strengthen exam prep in Mathematics (27 pts). Increase classroom discussion participation.
+Ali Davis (S1413),53.8%,71.2,HIGH,Immediate attendance recovery required (current: 53.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 37). Clear pending assignment submissions with department TA.
+John Jones (S1414),67.4%,79.0,MEDIUM,Improve attendance from 67.4% to above 80% to avoid examination penalty.
+Ali Brown (S1415),91.1%,52.8,HIGH,Aggregate marks (52.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 44). Clear pending assignment submissions with department TA.
+Ahmed Jones (S1416),82.4%,60.2,MEDIUM,Strengthen exam prep in Science (46 pts). Increase classroom discussion participation.
+Sara Williams (S1417),64.5%,79.6,HIGH,Immediate attendance recovery required (current: 64.5% vs 75% cutoff). Enroll in remedial workshops for Science (score: 45).
+Liam Brown (S1418),92.3%,64.2,MEDIUM,Strengthen exam prep in Mathematics (37 pts).
+Emma Smith (S1419),74.7%,87.8,MEDIUM,Improve attendance from 74.7% to above 80% to avoid examination penalty.
+Sara Smith (S1420),74.9%,78.1,MEDIUM,Improve attendance from 74.9% to above 80% to avoid examination penalty.
+Sara Williams (S1421),98.8%,53.6,HIGH,Aggregate marks (53.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 30). Clear pending assignment submissions with department TA.
+Emma Jones (S1422),97.4%,81.0,LOW,"Consistent academic standing (Attendance: 97.4%, Marks: 81.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Johnson (S1423),67.9%,70.2,MEDIUM,Improve attendance from 67.9% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (12 pts). Increase classroom discussion participation.
+Liam Williams (S1424),57.0%,75.5,HIGH,Immediate attendance recovery required (current: 57.0% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 47).
+Ahmed Brown (S1425),66.3%,82.5,MEDIUM,Improve attendance from 66.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Brown (S1426),51.5%,64.5,HIGH,Immediate attendance recovery required (current: 51.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 30).
+Maria Davis (S1427),51.0%,76.7,HIGH,Immediate attendance recovery required (current: 51.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 45). Clear pending assignment submissions with department TA.
+Ali Smith (S1428),69.8%,83.6,MEDIUM,Improve attendance from 69.8% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Brown (S1429),53.6%,72.7,HIGH,Immediate attendance recovery required (current: 53.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 17).
+Ali Williams (S1430),93.6%,80.1,LOW,"Consistent academic standing (Attendance: 93.6%, Marks: 80.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Brown (S1431),75.6%,67.9,MEDIUM,Improve attendance from 75.6% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (66 pts). Increase classroom discussion participation.
+Ahmed Williams (S1432),78.3%,63.4,MEDIUM,Strengthen exam prep in Writing (34 pts).
+Liam Johnson (S1433),75.3%,92.5,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty.
+Maria Davis (S1434),60.8%,61.4,HIGH,Immediate attendance recovery required (current: 60.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 39). Clear pending assignment submissions with department TA.
+Liam Smith (S1435),92.0%,65.6,MEDIUM,Strengthen exam prep in Mathematics (34 pts).
+Liam Brown (S1436),87.7%,69.7,MEDIUM,Strengthen exam prep in Mathematics (54 pts).
+Liam Williams (S1437),57.3%,59.2,HIGH,Immediate attendance recovery required (current: 57.3% vs 75% cutoff). Aggregate marks (59.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 54).
+Omar Jones (S1438),97.4%,70.6,MEDIUM,Strengthen exam prep in Mathematics (72 pts).
+John Smith (S1439),82.2%,69.5,MEDIUM,Strengthen exam prep in Writing (53 pts). Increase classroom discussion participation.
+Ali Johnson (S1440),61.5%,69.5,HIGH,Immediate attendance recovery required (current: 61.5% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 28).
+Liam Williams (S1441),96.1%,76.0,LOW,"Consistent academic standing (Attendance: 96.1%, Marks: 76.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Davis (S1442),81.4%,70.3,MEDIUM,Strengthen exam prep in Mathematics (50 pts). Increase classroom discussion participation.
+Liam Davis (S1443),95.0%,76.9,LOW,"Consistent academic standing (Attendance: 95.0%, Marks: 76.9). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1444),85.9%,66.1,MEDIUM,Strengthen exam prep in Reading (44 pts). Increase classroom discussion participation.
+John Johnson (S1445),63.9%,82.8,HIGH,Immediate attendance recovery required (current: 63.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 48). Clear pending assignment submissions with department TA.
+John Davis (S1446),79.4%,78.8,MEDIUM,Increase classroom discussion participation.
+Emma Brown (S1447),65.5%,54.6,HIGH,Immediate attendance recovery required (current: 65.5% vs 75% cutoff). Aggregate marks (54.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 36).
+Omar Brown (S1448),0.0%,69.6,HIGH,Immediate attendance recovery required (current: 0.0% vs 75% cutoff). Enroll in remedial workshops for Science (score: 34).
+Emma Williams (S1449),87.4%,87.1,LOW,"Consistent academic standing (Attendance: 87.4%, Marks: 87.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Jones (S1450),80.7%,77.0,LOW,"Consistent academic standing (Attendance: 80.7%, Marks: 77.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Williams (S1451),71.2%,76.5,MEDIUM,Improve attendance from 71.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Jones (S1452),80.9%,73.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Emma Johnson (S1453),67.1%,81.3,MEDIUM,Improve attendance from 67.1% to above 80% to avoid examination penalty.
+Ahmed Smith (S1454),51.4%,69.0,HIGH,Immediate attendance recovery required (current: 51.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 43). Clear pending assignment submissions with department TA.
+John Williams (S1455),69.8%,60.5,HIGH,Immediate attendance recovery required (current: 69.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 38).
+Emma Williams (S1456),96.5%,69.2,MEDIUM,Strengthen exam prep in Science (42 pts). Increase classroom discussion participation.
+Liam Jones (S1457),81.3%,60.4,MEDIUM,Strengthen exam prep in Mathematics (53 pts).
+John Johnson (S1458),54.2%,77.7,HIGH,Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 51).
+John Johnson (S1459),51.4%,80.6,HIGH,Immediate attendance recovery required (current: 51.4% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 45).
+Sara Jones (S1460),63.4%,84.3,HIGH,Immediate attendance recovery required (current: 63.4% vs 75% cutoff). Enroll in remedial workshops for Science (score: 48). Clear pending assignment submissions with department TA.
+Ahmed Johnson (S1461),62.2%,69.7,HIGH,Immediate attendance recovery required (current: 62.2% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 48).
+Emma Davis (S1462),64.8%,75.6,HIGH,Immediate attendance recovery required (current: 64.8% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Ali Brown (S1463),78.9%,89.4,MEDIUM,Increase classroom discussion participation.
+Maria Davis (S1464),77.2%,74.9,MEDIUM,Improve attendance from 77.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Smith (S1465),74.6%,77.8,MEDIUM,Improve attendance from 74.6% to above 80% to avoid examination penalty.
+Liam Williams (S1466),85.9%,88.3,LOW,"Consistent academic standing (Attendance: 85.9%, Marks: 88.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Smith (S1467),65.8%,64.8,HIGH,Immediate attendance recovery required (current: 65.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 16).
+Ahmed Williams (S1468),89.1%,54.5,HIGH,Aggregate marks (54.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 32). Clear pending assignment submissions with department TA.
+Maria Brown (S1469),58.1%,72.0,HIGH,Immediate attendance recovery required (current: 58.1% vs 75% cutoff).
+Ahmed Johnson (S1470),89.1%,79.6,LOW,"Consistent academic standing (Attendance: 89.1%, Marks: 79.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1471),83.2%,79.6,LOW,"Consistent academic standing (Attendance: 83.2%, Marks: 79.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Jones (S1472),84.2%,74.7,MEDIUM,Increase classroom discussion participation.
+Maria Davis (S1473),74.1%,57.6,HIGH,Aggregate marks (57.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 33).
+John Brown (S1474),83.3%,57.3,HIGH,Aggregate marks (57.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 38). Clear pending assignment submissions with department TA.
+Liam Smith (S1475),54.0%,86.0,HIGH,Immediate attendance recovery required (current: 54.0% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 46). Clear pending assignment submissions with department TA.
+Ali Jones (S1476),92.6%,67.3,MEDIUM,Strengthen exam prep in Mathematics (46 pts). Increase classroom discussion participation.
+Liam Johnson (S1477),52.8%,68.3,HIGH,Immediate attendance recovery required (current: 52.8% vs 75% cutoff). Enroll in remedial workshops for Science (score: 18). Clear pending assignment submissions with department TA.
+Ali Brown (S1478),57.4%,81.4,HIGH,Immediate attendance recovery required (current: 57.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 30). Clear pending assignment submissions with department TA.
+Maria Jones (S1479),78.8%,73.1,MEDIUM,Increase classroom discussion participation.
+Maria Brown (S1480),87.0%,70.0,MEDIUM,Strengthen exam prep in Writing (44 pts). Increase classroom discussion participation.
+Emma Brown (S1481),53.8%,76.2,HIGH,Immediate attendance recovery required (current: 53.8% vs 75% cutoff).
+Ahmed Johnson (S1482),51.0%,79.3,HIGH,Immediate attendance recovery required (current: 51.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 17). Clear pending assignment submissions with department TA.
+Emma Williams (S1483),67.1%,63.4,HIGH,Immediate attendance recovery required (current: 67.1% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 37).
+Ahmed Jones (S1484),80.3%,68.2,MEDIUM,Strengthen exam prep in Writing (30 pts). Increase classroom discussion participation.
+Emma Johnson (S1485),74.1%,65.3,HIGH,Improve attendance and focus on upcoming assessments.
+John Brown (S1486),87.1%,86.6,LOW,"Consistent academic standing (Attendance: 87.1%, Marks: 86.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1487),66.4%,85.3,MEDIUM,Improve attendance from 66.4% to above 80% to avoid examination penalty.
+Ali Williams (S1488),68.3%,80.7,MEDIUM,Improve attendance from 68.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ahmed Davis (S1489),95.8%,61.0,MEDIUM,Strengthen exam prep in Mathematics (23 pts).
+Liam Jones (S1490),97.8%,76.8,LOW,"Consistent academic standing (Attendance: 97.8%, Marks: 76.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Williams (S1491),75.3%,59.7,HIGH,Aggregate marks (59.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 29).
+Ali Smith (S1492),63.1%,55.6,HIGH,Immediate attendance recovery required (current: 63.1% vs 75% cutoff). Aggregate marks (55.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 25).
+Emma Jones (S1493),61.6%,74.2,HIGH,Immediate attendance recovery required (current: 61.6% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 54).
+Ahmed Williams (S1494),64.9%,75.6,HIGH,Immediate attendance recovery required (current: 64.9% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 45). Clear pending assignment submissions with department TA.
+Omar Brown (S1495),72.1%,52.0,HIGH,Aggregate marks (52.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 18). Clear pending assignment submissions with department TA.
+John Jones (S1496),65.7%,68.8,MEDIUM,Improve attendance from 65.7% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (56 pts). Increase classroom discussion participation.
+Maria Jones (S1497),68.7%,74.7,MEDIUM,Improve attendance from 68.7% to above 80% to avoid examination penalty.
+Ali Johnson (S1498),81.0%,64.2,MEDIUM,Strengthen exam prep in Mathematics (34 pts).
+Maria Brown (S1499),88.1%,61.1,MEDIUM,Strengthen exam prep in Science (55 pts). Increase classroom discussion participation.
+Omar Smith (S1500),86.8%,65.8,MEDIUM,Strengthen exam prep in Mathematics (32 pts). Increase classroom discussion participation.
+Ahmed Davis (S1501),90.7%,80.7,LOW,"Consistent academic standing (Attendance: 90.7%, Marks: 80.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Williams (S1502),51.6%,83.5,HIGH,Immediate attendance recovery required (current: 51.6% vs 75% cutoff).
+Liam Johnson (S1503),52.4%,59.5,HIGH,Immediate attendance recovery required (current: 52.4% vs 75% cutoff). Aggregate marks (59.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 15). Clear pending assignment submissions with department TA.
+Omar Williams (S1504),89.5%,60.4,MEDIUM,Strengthen exam prep in Science (45 pts).
+Ali Smith (S1505),76.7%,69.2,MEDIUM,Improve attendance from 76.7% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (76 pts). Increase classroom discussion participation.
+Liam Smith (S1506),78.9%,59.2,HIGH,Aggregate marks (59.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 37).
+John Jones (S1507),52.6%,63.0,HIGH,Immediate attendance recovery required (current: 52.6% vs 75% cutoff).
+Liam Smith (S1508),62.8%,86.3,HIGH,Immediate attendance recovery required (current: 62.8% vs 75% cutoff).
+Sara Williams (S1509),81.9%,49.8,HIGH,Aggregate marks (49.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 23).
+Ali Brown (S1510),93.0%,54.0,HIGH,Aggregate marks (54.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 46).
+Sara Brown (S1511),95.8%,52.7,HIGH,Aggregate marks (52.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 34).
+Omar Jones (S1512),75.0%,71.3,MEDIUM,Improve attendance from 75.0% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (44 pts).
+Emma Davis (S1513),77.3%,64.2,MEDIUM,Improve attendance from 77.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (20 pts). Increase classroom discussion participation.
+Sara Williams (S1514),91.7%,61.6,MEDIUM,Strengthen exam prep in Mathematics (22 pts). Increase classroom discussion participation.
+John Williams (S1515),76.9%,64.6,MEDIUM,Improve attendance from 76.9% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (44 pts).
+Liam Smith (S1516),75.8%,85.7,MEDIUM,Improve attendance from 75.8% to above 80% to avoid examination penalty.
+Emma Williams (S1517),95.2%,78.8,LOW,"Consistent academic standing (Attendance: 95.2%, Marks: 78.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Johnson (S1518),75.3%,83.8,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty.
+Sara Davis (S1519),95.5%,57.3,HIGH,Aggregate marks (57.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23).
+Liam Smith (S1520),60.9%,64.4,HIGH,Immediate attendance recovery required (current: 60.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 40). Clear pending assignment submissions with department TA.
+Omar Johnson (S1521),76.2%,76.6,MEDIUM,Improve attendance from 76.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Jones (S1522),92.1%,66.2,MEDIUM,Strengthen exam prep in Mathematics (39 pts).
+Omar Brown (S1523),55.6%,77.4,HIGH,Immediate attendance recovery required (current: 55.6% vs 75% cutoff).
+Sara Jones (S1524),89.7%,77.8,LOW,"Consistent academic standing (Attendance: 89.7%, Marks: 77.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Brown (S1525),59.1%,65.9,HIGH,Immediate attendance recovery required (current: 59.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 38).
+John Jones (S1526),69.1%,75.1,MEDIUM,Improve attendance from 69.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Sara Williams (S1527),80.6%,64.9,MEDIUM,Strengthen exam prep in Reading (23 pts). Increase classroom discussion participation.
+Sara Johnson (S1528),59.7%,74.8,HIGH,Immediate attendance recovery required (current: 59.7% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 18).
+Sara Brown (S1529),73.7%,74.3,MEDIUM,Improve attendance from 73.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Smith (S1530),75.3%,72.1,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Johnson (S1531),89.2%,67.9,MEDIUM,Strengthen exam prep in Science (61 pts). Increase classroom discussion participation.
+Ali Smith (S1532),71.4%,70.2,MEDIUM,Improve attendance from 71.4% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (20 pts).
+Ali Johnson (S1533),95.0%,86.7,LOW,"Consistent academic standing (Attendance: 95.0%, Marks: 86.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Johnson (S1534),76.0%,71.8,MEDIUM,Improve attendance from 76.0% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (25 pts). Increase classroom discussion participation.
+Emma Jones (S1535),75.3%,70.9,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (14 pts).
+Liam Brown (S1536),53.1%,74.7,HIGH,Immediate attendance recovery required (current: 53.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25).
+Omar Brown (S1537),96.1%,74.5,MEDIUM,Increase classroom discussion participation.
+Ahmed Johnson (S1538),58.9%,90.2,HIGH,Immediate attendance recovery required (current: 58.9% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Sara Williams (S1539),76.4%,75.7,MEDIUM,Improve attendance from 76.4% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Williams (S1540),90.2%,73.4,MEDIUM,Increase classroom discussion participation.
+Sara Smith (S1541),60.8%,72.9,HIGH,Immediate attendance recovery required (current: 60.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 25). Clear pending assignment submissions with department TA.
+John Smith (S1542),80.7%,62.0,MEDIUM,Strengthen exam prep in Mathematics (54 pts). Increase classroom discussion participation.
+Sara Jones (S1543),62.0%,57.3,HIGH,Immediate attendance recovery required (current: 62.0% vs 75% cutoff). Aggregate marks (57.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 22). Clear pending assignment submissions with department TA.
+Ali Johnson (S1544),88.0%,59.5,HIGH,Aggregate marks (59.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 40).
+Liam Smith (S1545),78.2%,69.4,MEDIUM,Strengthen exam prep in Mathematics (39 pts). Increase classroom discussion participation.
+Ahmed Smith (S1546),72.4%,78.6,MEDIUM,Improve attendance from 72.4% to above 80% to avoid examination penalty.
+Maria Davis (S1547),94.7%,69.5,MEDIUM,Strengthen exam prep in Science (45 pts). Increase classroom discussion participation.
+Sara Johnson (S1548),82.4%,50.4,HIGH,Aggregate marks (50.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 27). Clear pending assignment submissions with department TA.
+Omar Jones (S1549),86.3%,64.4,MEDIUM,Strengthen exam prep in Mathematics (27 pts).
+Ali Smith (S1550),75.3%,61.0,HIGH,Enroll in remedial workshops for Mathematics (score: 42).
+Maria Jones (S1551),69.2%,81.5,MEDIUM,Improve attendance from 69.2% to above 80% to avoid examination penalty.
+Ahmed Brown (S1552),82.4%,71.5,MEDIUM,Strengthen exam prep in Writing (23 pts).
+Maria Jones (S1553),95.4%,83.5,LOW,"Consistent academic standing (Attendance: 95.4%, Marks: 83.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Williams (S1554),70.8%,56.2,HIGH,Aggregate marks (56.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 38).
+Liam Williams (S1555),65.7%,59.7,HIGH,Immediate attendance recovery required (current: 65.7% vs 75% cutoff). Aggregate marks (59.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 40).
+Liam Jones (S1556),95.9%,86.8,LOW,"Consistent academic standing (Attendance: 95.9%, Marks: 86.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Williams (S1557),71.8%,64.6,HIGH,Clear pending assignment submissions with department TA.
+Liam Brown (S1558),53.7%,70.9,HIGH,Immediate attendance recovery required (current: 53.7% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 27).
+Emma Johnson (S1559),74.9%,85.7,MEDIUM,Improve attendance from 74.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Williams (S1560),74.7%,67.2,HIGH,Enroll in remedial workshops for Reading (score: 53).
+John Williams (S1561),79.4%,63.8,MEDIUM,Strengthen exam prep in Mathematics (34 pts). Increase classroom discussion participation.
+Omar Jones (S1562),68.1%,60.0,HIGH,Immediate attendance recovery required (current: 68.1% vs 75% cutoff). Enroll in remedial workshops for Science (score: 31).
+Omar Brown (S1563),80.7%,78.1,LOW,"Consistent academic standing (Attendance: 80.7%, Marks: 78.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1564),93.9%,68.8,MEDIUM,Strengthen exam prep in Mathematics (55 pts).
+Sara Jones (S1565),97.8%,72.8,MEDIUM,Increase classroom discussion participation.
+Sara Jones (S1566),79.2%,69.1,MEDIUM,Strengthen exam prep in Mathematics (25 pts). Increase classroom discussion participation.
+Liam Davis (S1567),89.9%,56.8,HIGH,Aggregate marks (56.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 22).
+Omar Brown (S1568),98.5%,69.1,MEDIUM,Strengthen exam prep in Science (9 pts). Increase classroom discussion participation.
+Omar Johnson (S1569),85.3%,76.5,LOW,"Consistent academic standing (Attendance: 85.3%, Marks: 76.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Brown (S1570),60.5%,62.5,HIGH,Immediate attendance recovery required (current: 60.5% vs 75% cutoff). Enroll in remedial workshops for Science (score: 48). Clear pending assignment submissions with department TA.
+John Johnson (S1571),57.4%,50.3,HIGH,Immediate attendance recovery required (current: 57.4% vs 75% cutoff). Aggregate marks (50.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 22).
+Ali Brown (S1572),57.2%,65.2,HIGH,Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 42).
+Sara Jones (S1573),58.4%,68.2,HIGH,Immediate attendance recovery required (current: 58.4% vs 75% cutoff).
+Omar Jones (S1574),52.3%,61.0,HIGH,Immediate attendance recovery required (current: 52.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 0). Clear pending assignment submissions with department TA.
+Emma Smith (S1575),57.2%,81.6,HIGH,Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 51).
+Ahmed Williams (S1576),77.0%,60.8,MEDIUM,Improve attendance from 77.0% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (45 pts). Increase classroom discussion participation.
+Emma Davis (S1577),85.0%,55.1,HIGH,Aggregate marks (55.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23).
+Sara Brown (S1578),91.4%,67.0,MEDIUM,Strengthen exam prep in Reading (31 pts). Increase classroom discussion participation.
+Sara Davis (S1579),89.6%,69.9,MEDIUM,Strengthen exam prep in Mathematics (40 pts).
+Emma Smith (S1580),94.1%,75.2,LOW,"Consistent academic standing (Attendance: 94.1%, Marks: 75.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Williams (S1581),98.4%,79.1,LOW,"Consistent academic standing (Attendance: 98.4%, Marks: 79.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Brown (S1582),72.0%,66.6,HIGH,Enroll in remedial workshops for Writing (score: 52).
+Sara Johnson (S1583),97.5%,61.7,MEDIUM,Strengthen exam prep in Science (45 pts). Increase classroom discussion participation.
+Emma Williams (S1584),86.2%,57.9,HIGH,Aggregate marks (57.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 46).
+Omar Jones (S1585),53.5%,67.8,HIGH,Immediate attendance recovery required (current: 53.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 33).
+Emma Smith (S1586),84.1%,73.2,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+John Williams (S1587),78.3%,79.3,MEDIUM,Increase classroom discussion participation.
+Maria Williams (S1588),95.3%,53.2,HIGH,Aggregate marks (53.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 18). Clear pending assignment submissions with department TA.
+Ahmed Jones (S1589),68.7%,90.3,MEDIUM,Improve attendance from 68.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Brown (S1590),79.2%,75.5,MEDIUM,Increase classroom discussion participation.
+Liam Johnson (S1591),50.6%,87.8,HIGH,Immediate attendance recovery required (current: 50.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 52).
+Ahmed Jones (S1592),66.6%,65.3,HIGH,Immediate attendance recovery required (current: 66.6% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 48).
+Maria Johnson (S1593),53.1%,65.8,HIGH,Immediate attendance recovery required (current: 53.1% vs 75% cutoff).
+Maria Brown (S1594),76.1%,62.6,MEDIUM,Improve attendance from 76.1% to above 80% to avoid examination penalty. Strengthen exam prep in Science (36 pts). Increase classroom discussion participation.
+Maria Williams (S1595),90.9%,69.7,MEDIUM,Strengthen exam prep in Mathematics (47 pts).
+Ahmed Johnson (S1596),92.9%,64.3,MEDIUM,Strengthen exam prep in Reading (35 pts). Increase classroom discussion participation.
+Omar Smith (S1597),98.7%,84.0,LOW,"Consistent academic standing (Attendance: 98.7%, Marks: 84.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Smith (S1598),60.2%,68.4,HIGH,Immediate attendance recovery required (current: 60.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 50).
+Emma Jones (S1599),56.0%,73.2,HIGH,Immediate attendance recovery required (current: 56.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 32).
+Ahmed Brown (S1600),75.5%,82.0,MEDIUM,Improve attendance from 75.5% to above 80% to avoid examination penalty.
+Liam Jones (S1601),54.0%,56.9,HIGH,Immediate attendance recovery required (current: 54.0% vs 75% cutoff). Aggregate marks (56.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 14).
+Maria Jones (S1602),84.1%,64.3,MEDIUM,Strengthen exam prep in Mathematics (29 pts). Increase classroom discussion participation.
+Emma Davis (S1603),51.6%,75.6,HIGH,Immediate attendance recovery required (current: 51.6% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 33).
+Omar Jones (S1604),55.3%,67.9,HIGH,Immediate attendance recovery required (current: 55.3% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 17).
+John Davis (S1605),77.5%,82.8,MEDIUM,Improve attendance from 77.5% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Smith (S1606),79.6%,78.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Smith (S1607),51.5%,83.0,HIGH,Immediate attendance recovery required (current: 51.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 46). Clear pending assignment submissions with department TA.
+Maria Jones (S1608),78.7%,74.1,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Smith (S1609),91.9%,60.9,MEDIUM,Strengthen exam prep in Writing (35 pts).
+Ahmed Brown (S1610),86.1%,83.6,LOW,"Consistent academic standing (Attendance: 86.1%, Marks: 83.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Davis (S1611),56.6%,79.8,HIGH,Immediate attendance recovery required (current: 56.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 24). Clear pending assignment submissions with department TA.
+Maria Davis (S1612),79.6%,60.5,MEDIUM,Strengthen exam prep in Mathematics (12 pts).
+Sara Jones (S1613),83.6%,68.7,MEDIUM,Strengthen exam prep in Science (58 pts). Increase classroom discussion participation.
+Emma Smith (S1614),51.9%,70.1,HIGH,Immediate attendance recovery required (current: 51.9% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 41).
+John Johnson (S1615),92.8%,80.8,LOW,"Consistent academic standing (Attendance: 92.8%, Marks: 80.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Davis (S1616),95.3%,55.1,HIGH,Aggregate marks (55.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 29).
+Liam Jones (S1617),92.5%,70.3,MEDIUM,Strengthen exam prep in Mathematics (26 pts). Increase classroom discussion participation.
+Omar Jones (S1618),91.2%,89.2,LOW,"Consistent academic standing (Attendance: 91.2%, Marks: 89.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Brown (S1619),87.2%,77.0,LOW,"Consistent academic standing (Attendance: 87.2%, Marks: 77.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Williams (S1620),81.7%,82.8,LOW,"Consistent academic standing (Attendance: 81.7%, Marks: 82.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Williams (S1621),83.9%,92.2,LOW,"Consistent academic standing (Attendance: 83.9%, Marks: 92.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Davis (S1622),93.8%,52.8,HIGH,Aggregate marks (52.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 29). Clear pending assignment submissions with department TA.
+Sara Brown (S1623),83.1%,63.7,MEDIUM,Strengthen exam prep in Mathematics (35 pts).
+Ahmed Brown (S1624),66.4%,61.7,HIGH,Immediate attendance recovery required (current: 66.4% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 43). Clear pending assignment submissions with department TA.
+Sara Brown (S1625),68.8%,61.0,HIGH,Immediate attendance recovery required (current: 68.8% vs 75% cutoff). Enroll in remedial workshops for Science (score: 38).
+Ahmed Davis (S1626),94.8%,69.7,MEDIUM,Strengthen exam prep in Reading (36 pts).
+Emma Williams (S1627),50.9%,56.5,HIGH,Immediate attendance recovery required (current: 50.9% vs 75% cutoff). Aggregate marks (56.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 10).
+Omar Brown (S1628),84.9%,69.7,MEDIUM,Strengthen exam prep in Mathematics (19 pts). Increase classroom discussion participation.
+Omar Smith (S1629),97.7%,75.2,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ali Jones (S1630),85.3%,69.9,MEDIUM,Strengthen exam prep in Writing (28 pts).
+Maria Jones (S1631),99.7%,60.9,MEDIUM,Strengthen exam prep in Science (15 pts). Increase classroom discussion participation.
+Ahmed Johnson (S1632),84.4%,54.8,HIGH,Aggregate marks (54.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 28).
+Ali Johnson (S1633),51.7%,62.2,HIGH,Immediate attendance recovery required (current: 51.7% vs 75% cutoff).
+Sara Davis (S1634),91.3%,63.1,MEDIUM,Strengthen exam prep in Mathematics (41 pts). Increase classroom discussion participation.
+Sara Davis (S1635),64.2%,50.3,HIGH,Immediate attendance recovery required (current: 64.2% vs 75% cutoff). Aggregate marks (50.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 24).
+Ali Jones (S1636),72.3%,65.4,HIGH,Enroll in remedial workshops for Mathematics (score: 42).
+Omar Smith (S1637),65.6%,71.1,MEDIUM,Improve attendance from 65.6% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (38 pts). Increase classroom discussion participation.
+Sara Williams (S1638),63.4%,62.1,HIGH,Immediate attendance recovery required (current: 63.4% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 35).
+Liam Williams (S1639),71.6%,63.1,HIGH,Enroll in remedial workshops for Science (score: 29).
+Emma Davis (S1640),68.9%,52.6,HIGH,Immediate attendance recovery required (current: 68.9% vs 75% cutoff). Aggregate marks (52.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 44). Clear pending assignment submissions with department TA.
+Emma Smith (S1641),81.7%,78.3,LOW,"Consistent academic standing (Attendance: 81.7%, Marks: 78.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1642),73.2%,57.0,HIGH,Aggregate marks (57.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 43).
+Ali Williams (S1643),64.8%,70.5,HIGH,Immediate attendance recovery required (current: 64.8% vs 75% cutoff).
+Liam Davis (S1644),60.7%,74.7,HIGH,Immediate attendance recovery required (current: 60.7% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Ahmed Brown (S1645),83.3%,88.5,LOW,"Consistent academic standing (Attendance: 83.3%, Marks: 88.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Davis (S1646),83.5%,76.4,LOW,"Consistent academic standing (Attendance: 83.5%, Marks: 76.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Jones (S1647),95.1%,70.6,MEDIUM,Strengthen exam prep in Mathematics (49 pts).
+Liam Davis (S1648),50.8%,78.9,HIGH,Immediate attendance recovery required (current: 50.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 34).
+Ahmed Jones (S1649),78.9%,80.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Omar Smith (S1650),76.0%,56.5,HIGH,Aggregate marks (56.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 28). Clear pending assignment submissions with department TA.
+Liam Williams (S1651),81.1%,62.5,MEDIUM,Strengthen exam prep in Writing (14 pts).
+Omar Johnson (S1652),54.6%,78.1,HIGH,Immediate attendance recovery required (current: 54.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 10). Clear pending assignment submissions with department TA.
+Ahmed Johnson (S1653),71.6%,79.6,MEDIUM,Improve attendance from 71.6% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Williams (S1654),61.4%,72.7,HIGH,Immediate attendance recovery required (current: 61.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 21).
+Ahmed Johnson (S1655),62.7%,67.1,HIGH,Immediate attendance recovery required (current: 62.7% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Omar Davis (S1656),75.2%,88.3,MEDIUM,Improve attendance from 75.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+John Smith (S1657),90.6%,58.1,HIGH,Aggregate marks (58.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 20).
+Maria Smith (S1658),87.2%,58.1,HIGH,Aggregate marks (58.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 48). Clear pending assignment submissions with department TA.
+Sara Williams (S1659),60.0%,63.8,HIGH,Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 16).
+Liam Johnson (S1660),75.3%,70.1,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (47 pts).
+John Davis (S1661),71.4%,87.4,MEDIUM,Improve attendance from 71.4% to above 80% to avoid examination penalty.
+Ahmed Smith (S1662),98.6%,58.6,HIGH,Aggregate marks (58.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 37). Clear pending assignment submissions with department TA.
+Emma Smith (S1663),78.0%,67.2,MEDIUM,Strengthen exam prep in Mathematics (35 pts).
+Ali Brown (S1664),62.7%,63.3,HIGH,Immediate attendance recovery required (current: 62.7% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 46).
+Ahmed Brown (S1665),61.5%,76.2,HIGH,Immediate attendance recovery required (current: 61.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 31).
+Emma Smith (S1666),80.6%,60.8,MEDIUM,Strengthen exam prep in Mathematics (25 pts). Increase classroom discussion participation.
+Maria Williams (S1667),76.1%,71.7,MEDIUM,Improve attendance from 76.1% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (43 pts).
+Ahmed Jones (S1668),50.4%,69.7,HIGH,Immediate attendance recovery required (current: 50.4% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 54).
+Omar Jones (S1669),91.5%,74.3,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ali Davis (S1670),85.2%,69.9,MEDIUM,Strengthen exam prep in Mathematics (39 pts).
+Emma Smith (S1671),83.1%,60.8,MEDIUM,Strengthen exam prep in Science (41 pts). Increase classroom discussion participation.
+Emma Smith (S1672),53.4%,63.5,HIGH,Immediate attendance recovery required (current: 53.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 21).
+Emma Smith (S1673),100.0%,71.4,MEDIUM,Strengthen exam prep in Mathematics (67 pts).
+Maria Williams (S1674),96.8%,73.7,LOW,"Consistent academic standing (Attendance: 96.8%, Marks: 73.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Brown (S1675),93.1%,67.5,MEDIUM,Strengthen exam prep in Mathematics (29 pts). Increase classroom discussion participation.
+Maria Smith (S1676),64.3%,87.1,HIGH,Immediate attendance recovery required (current: 64.3% vs 75% cutoff). Enroll in remedial workshops for Science (score: 51).
+Liam Smith (S1677),57.9%,60.4,HIGH,Immediate attendance recovery required (current: 57.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 33). Clear pending assignment submissions with department TA.
+Sara Johnson (S1678),72.5%,56.2,HIGH,Aggregate marks (56.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 35).
+Sara Williams (S1679),67.8%,64.2,HIGH,Immediate attendance recovery required (current: 67.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 48).
+Liam Davis (S1680),84.1%,63.6,MEDIUM,Strengthen exam prep in Mathematics (56 pts).
+Ahmed Smith (S1681),98.3%,69.6,MEDIUM,Strengthen exam prep in Mathematics (42 pts).
+Omar Johnson (S1682),68.2%,57.3,HIGH,Immediate attendance recovery required (current: 68.2% vs 75% cutoff). Aggregate marks (57.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 48).
+Maria Jones (S1683),53.1%,76.0,HIGH,Immediate attendance recovery required (current: 53.1% vs 75% cutoff). Enroll in remedial workshops for Science (score: 15).
+Ali Davis (S1684),94.9%,75.7,LOW,"Consistent academic standing (Attendance: 94.9%, Marks: 75.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Smith (S1685),51.9%,72.9,HIGH,Immediate attendance recovery required (current: 51.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 47). Clear pending assignment submissions with department TA.
+Emma Smith (S1686),97.6%,81.0,LOW,"Consistent academic standing (Attendance: 97.6%, Marks: 81.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Johnson (S1687),83.2%,50.8,HIGH,Aggregate marks (50.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 16).
+Omar Williams (S1688),97.1%,85.7,LOW,"Consistent academic standing (Attendance: 97.1%, Marks: 85.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Smith (S1689),60.0%,64.8,HIGH,Immediate attendance recovery required (current: 60.0% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 39). Clear pending assignment submissions with department TA.
+Sara Jones (S1690),52.0%,57.5,HIGH,Immediate attendance recovery required (current: 52.0% vs 75% cutoff). Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 32).
+Emma Smith (S1691),74.4%,75.8,MEDIUM,Improve attendance from 74.4% to above 80% to avoid examination penalty.
+Ahmed Jones (S1692),72.5%,62.9,HIGH,Enroll in remedial workshops for Writing (score: 30). Clear pending assignment submissions with department TA.
+Maria Davis (S1693),68.1%,68.1,MEDIUM,Improve attendance from 68.1% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (33 pts). Increase classroom discussion participation.
+Sara Davis (S1694),97.9%,88.3,LOW,"Consistent academic standing (Attendance: 97.9%, Marks: 88.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Brown (S1695),91.1%,83.6,LOW,"Consistent academic standing (Attendance: 91.1%, Marks: 83.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Brown (S1696),83.1%,78.6,LOW,"Consistent academic standing (Attendance: 83.1%, Marks: 78.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Jones (S1697),58.1%,70.3,HIGH,Immediate attendance recovery required (current: 58.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 49). Clear pending assignment submissions with department TA.
+Sara Williams (S1698),86.7%,71.6,MEDIUM,Strengthen exam prep in Mathematics (20 pts).
+John Smith (S1699),86.3%,54.7,HIGH,Aggregate marks (54.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 21).
+Sara Smith (S1700),71.2%,87.4,MEDIUM,Improve attendance from 71.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Brown (S1701),96.2%,63.0,MEDIUM,Strengthen exam prep in Writing (48 pts).
+Ali Jones (S1702),55.5%,64.3,HIGH,Immediate attendance recovery required (current: 55.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 28).
+Liam Smith (S1703),63.4%,89.4,HIGH,Immediate attendance recovery required (current: 63.4% vs 75% cutoff).
+Ahmed Smith (S1704),53.2%,84.4,HIGH,Immediate attendance recovery required (current: 53.2% vs 75% cutoff).
+Ahmed Williams (S1705),89.8%,75.9,LOW,"Consistent academic standing (Attendance: 89.8%, Marks: 75.9). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1706),81.1%,66.7,MEDIUM,Strengthen exam prep in Science (53 pts).
+Liam Brown (S1707),65.8%,59.2,HIGH,Immediate attendance recovery required (current: 65.8% vs 75% cutoff). Aggregate marks (59.2) are critical; mandatory faculty mentoring initiated.
+Liam Brown (S1708),58.2%,79.7,HIGH,Immediate attendance recovery required (current: 58.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 30). Clear pending assignment submissions with department TA.
+Liam Johnson (S1709),52.0%,71.1,HIGH,Immediate attendance recovery required (current: 52.0% vs 75% cutoff).
+Omar Smith (S1710),58.3%,80.1,HIGH,Immediate attendance recovery required (current: 58.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20).
+Sara Williams (S1711),72.7%,80.8,MEDIUM,Improve attendance from 72.7% to above 80% to avoid examination penalty.
+Ali Williams (S1712),62.4%,86.9,HIGH,Immediate attendance recovery required (current: 62.4% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 49).
+Maria Brown (S1713),63.0%,74.4,HIGH,Immediate attendance recovery required (current: 63.0% vs 75% cutoff). Enroll in remedial workshops for Science (score: 51).
+Liam Williams (S1714),93.8%,78.8,LOW,"Consistent academic standing (Attendance: 93.8%, Marks: 78.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1715),75.8%,54.8,HIGH,Aggregate marks (54.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 36).
+John Johnson (S1716),86.5%,85.8,LOW,"Consistent academic standing (Attendance: 86.5%, Marks: 85.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Smith (S1717),51.8%,67.6,HIGH,Immediate attendance recovery required (current: 51.8% vs 75% cutoff).
+Liam Davis (S1718),68.3%,63.2,HIGH,Immediate attendance recovery required (current: 68.3% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Maria Johnson (S1719),74.0%,70.1,MEDIUM,Improve attendance from 74.0% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (30 pts).
+Sara Jones (S1720),59.3%,79.3,HIGH,Immediate attendance recovery required (current: 59.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22). Clear pending assignment submissions with department TA.
+John Brown (S1721),56.0%,84.1,HIGH,Immediate attendance recovery required (current: 56.0% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Maria Williams (S1722),93.5%,75.5,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ali Jones (S1723),97.0%,81.0,LOW,"Consistent academic standing (Attendance: 97.0%, Marks: 81.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Williams (S1724),58.8%,75.9,HIGH,Immediate attendance recovery required (current: 58.8% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 45).
+Ahmed Davis (S1725),67.5%,74.9,MEDIUM,Improve attendance from 67.5% to above 80% to avoid examination penalty.
+John Smith (S1726),97.9%,59.0,HIGH,Aggregate marks (59.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 33).
+John Smith (S1727),54.2%,77.2,HIGH,Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Clear pending assignment submissions with department TA.
+Ahmed Smith (S1728),82.2%,77.5,LOW,"Consistent academic standing (Attendance: 82.2%, Marks: 77.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Williams (S1729),98.6%,75.8,LOW,"Consistent academic standing (Attendance: 98.6%, Marks: 75.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Jones (S1730),98.9%,62.0,MEDIUM,Strengthen exam prep in Mathematics (51 pts).
+Ali Smith (S1731),73.6%,51.0,HIGH,Aggregate marks (51.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 23).
+Ali Jones (S1732),58.1%,53.5,HIGH,Immediate attendance recovery required (current: 58.1% vs 75% cutoff). Aggregate marks (53.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 44).
+Liam Williams (S1733),60.1%,63.1,HIGH,Immediate attendance recovery required (current: 60.1% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 34).
+Sara Davis (S1734),94.5%,65.2,MEDIUM,Strengthen exam prep in Mathematics (28 pts). Increase classroom discussion participation.
+John Jones (S1735),95.6%,75.0,MEDIUM,Increase classroom discussion participation.
+Maria Davis (S1736),80.4%,78.3,LOW,"Consistent academic standing (Attendance: 80.4%, Marks: 78.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Williams (S1737),93.8%,64.7,MEDIUM,Strengthen exam prep in Mathematics (42 pts).
+Ahmed Williams (S1738),87.0%,59.7,HIGH,Aggregate marks (59.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 24).
+Maria Brown (S1739),83.1%,75.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Omar Williams (S1740),91.4%,52.4,HIGH,Aggregate marks (52.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 33).
+Emma Williams (S1741),84.3%,86.3,LOW,"Consistent academic standing (Attendance: 84.3%, Marks: 86.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Johnson (S1742),76.7%,64.4,MEDIUM,Improve attendance from 76.7% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (22 pts).
+Ahmed Smith (S1743),61.9%,71.4,HIGH,Immediate attendance recovery required (current: 61.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 37).
+John Brown (S1744),87.2%,73.6,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Sara Brown (S1745),73.7%,74.3,MEDIUM,Improve attendance from 73.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+John Brown (S1746),64.7%,68.1,HIGH,Immediate attendance recovery required (current: 64.7% vs 75% cutoff). Enroll in remedial workshops for Science (score: 9).
+Omar Johnson (S1747),90.1%,65.7,MEDIUM,Strengthen exam prep in Science (60 pts). Increase classroom discussion participation.
+Ali Davis (S1748),84.8%,80.5,LOW,"Consistent academic standing (Attendance: 84.8%, Marks: 80.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Williams (S1749),96.9%,69.2,MEDIUM,Strengthen exam prep in Science (71 pts).
+Liam Smith (S1750),58.3%,65.5,HIGH,Immediate attendance recovery required (current: 58.3% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 17).
+Ahmed Jones (S1751),81.8%,83.7,LOW,"Consistent academic standing (Attendance: 81.8%, Marks: 83.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Davis (S1752),62.2%,80.9,HIGH,Immediate attendance recovery required (current: 62.2% vs 75% cutoff).
+Sara Williams (S1753),95.2%,71.5,MEDIUM,Strengthen exam prep in Mathematics (23 pts).
+Sara Johnson (S1754),55.0%,60.8,HIGH,Immediate attendance recovery required (current: 55.0% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 30).
+Emma Williams (S1755),82.8%,50.7,HIGH,Aggregate marks (50.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 26).
+Sara Williams (S1756),89.5%,58.6,HIGH,Aggregate marks (58.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 38).
+John Johnson (S1757),67.8%,69.3,MEDIUM,Improve attendance from 67.8% to above 80% to avoid examination penalty. Strengthen exam prep in Science (59 pts).
+Ali Brown (S1758),97.7%,64.7,MEDIUM,Strengthen exam prep in Mathematics (30 pts). Increase classroom discussion participation.
+Omar Brown (S1759),92.5%,66.6,MEDIUM,Strengthen exam prep in Mathematics (27 pts).
+Maria Smith (S1760),64.7%,82.6,HIGH,Immediate attendance recovery required (current: 64.7% vs 75% cutoff).
+Sara Smith (S1761),50.4%,83.9,HIGH,Immediate attendance recovery required (current: 50.4% vs 75% cutoff).
+Ahmed Brown (S1762),64.8%,82.2,HIGH,Immediate attendance recovery required (current: 64.8% vs 75% cutoff).
+Sara Davis (S1763),64.1%,63.4,HIGH,Immediate attendance recovery required (current: 64.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 8).
+Ahmed Jones (S1764),94.5%,59.2,HIGH,Aggregate marks (59.2) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 25).
+John Williams (S1765),98.4%,74.5,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ahmed Jones (S1766),53.5%,70.5,HIGH,Immediate attendance recovery required (current: 53.5% vs 75% cutoff).
+Liam Williams (S1767),73.6%,69.7,MEDIUM,Improve attendance from 73.6% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (18 pts).
+Maria Brown (S1768),77.4%,80.0,MEDIUM,Improve attendance from 77.4% to above 80% to avoid examination penalty.
+Ali Smith (S1769),54.6%,74.0,HIGH,Immediate attendance recovery required (current: 54.6% vs 75% cutoff). Enroll in remedial workshops for Science (score: 53).
+Ahmed Davis (S1770),68.9%,58.3,HIGH,Immediate attendance recovery required (current: 68.9% vs 75% cutoff). Aggregate marks (58.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 48).
+Ahmed Smith (S1771),65.8%,85.5,MEDIUM,Improve attendance from 65.8% to above 80% to avoid examination penalty.
+Ali Jones (S1772),76.8%,61.0,MEDIUM,Improve attendance from 76.8% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (17 pts).
+Maria Smith (S1773),83.1%,80.1,LOW,"Consistent academic standing (Attendance: 83.1%, Marks: 80.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Brown (S1774),85.2%,81.6,LOW,"Consistent academic standing (Attendance: 85.2%, Marks: 81.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Davis (S1775),56.8%,64.3,HIGH,Immediate attendance recovery required (current: 56.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 13). Clear pending assignment submissions with department TA.
+Ali Jones (S1776),90.7%,61.6,MEDIUM,Strengthen exam prep in Science (61 pts).
+Liam Davis (S1777),83.9%,77.8,LOW,"Consistent academic standing (Attendance: 83.9%, Marks: 77.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Williams (S1778),94.5%,79.8,LOW,"Consistent academic standing (Attendance: 94.5%, Marks: 79.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Smith (S1779),72.5%,70.4,MEDIUM,Improve attendance from 72.5% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (76 pts). Increase classroom discussion participation.
+Ali Davis (S1780),98.2%,75.7,LOW,"Consistent academic standing (Attendance: 98.2%, Marks: 75.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Johnson (S1781),70.9%,82.2,MEDIUM,Improve attendance from 70.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Smith (S1782),71.9%,61.3,HIGH,Enroll in remedial workshops for Mathematics (score: 17).
+Maria Williams (S1783),69.1%,58.5,HIGH,Immediate attendance recovery required (current: 69.1% vs 75% cutoff). Aggregate marks (58.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 44).
+Sara Davis (S1784),96.6%,46.9,HIGH,Aggregate marks (46.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9).
+Ali Jones (S1785),50.1%,55.0,HIGH,Immediate attendance recovery required (current: 50.1% vs 75% cutoff). Aggregate marks (55.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 19).
+Omar Williams (S1786),96.4%,56.9,HIGH,Aggregate marks (56.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 43). Clear pending assignment submissions with department TA.
+Liam Johnson (S1787),89.8%,56.6,HIGH,Aggregate marks (56.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 17). Clear pending assignment submissions with department TA.
+Liam Davis (S1788),80.5%,65.2,MEDIUM,Strengthen exam prep in Reading (54 pts). Increase classroom discussion participation.
+Omar Brown (S1789),55.8%,64.6,HIGH,Immediate attendance recovery required (current: 55.8% vs 75% cutoff). Enroll in remedial workshops for Science (score: 31).
+Emma Smith (S1790),64.6%,79.4,HIGH,Immediate attendance recovery required (current: 64.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 14).
+Liam Jones (S1791),98.4%,69.4,MEDIUM,Strengthen exam prep in Science (32 pts). Increase classroom discussion participation.
+Ahmed Brown (S1792),66.0%,74.6,MEDIUM,Improve attendance from 66.0% to above 80% to avoid examination penalty.
+Maria Davis (S1793),54.7%,67.6,HIGH,Immediate attendance recovery required (current: 54.7% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22).
+Ali Davis (S1794),85.4%,57.1,HIGH,Aggregate marks (57.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 49).
+Omar Williams (S1795),75.3%,71.5,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Science (11 pts). Increase classroom discussion participation.
+Ahmed Davis (S1796),68.6%,69.1,MEDIUM,Improve attendance from 68.6% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (44 pts). Increase classroom discussion participation.
+Omar Jones (S1797),64.9%,69.8,HIGH,Immediate attendance recovery required (current: 64.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 41).
+Ali Brown (S1798),73.4%,87.7,MEDIUM,Improve attendance from 73.4% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+John Jones (S1799),51.1%,80.0,HIGH,Immediate attendance recovery required (current: 51.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 44).
+Ali Johnson (S1800),89.5%,70.8,MEDIUM,Strengthen exam prep in Mathematics (40 pts).
+Emma Johnson (S1801),65.8%,82.6,MEDIUM,Improve attendance from 65.8% to above 80% to avoid examination penalty.
+Ali Smith (S1802),92.7%,77.3,LOW,"Consistent academic standing (Attendance: 92.7%, Marks: 77.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Smith (S1803),90.1%,81.9,LOW,"Consistent academic standing (Attendance: 90.1%, Marks: 81.9). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Johnson (S1804),83.1%,52.3,HIGH,Aggregate marks (52.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 19).
+Maria Davis (S1805),66.2%,88.9,MEDIUM,Improve attendance from 66.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Jones (S1806),75.8%,70.3,MEDIUM,Improve attendance from 75.8% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (48 pts).
+Ali Johnson (S1807),72.2%,76.6,MEDIUM,Improve attendance from 72.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Smith (S1808),66.9%,58.6,HIGH,Immediate attendance recovery required (current: 66.9% vs 75% cutoff). Aggregate marks (58.6) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 19).
+Ahmed Johnson (S1809),92.4%,60.2,MEDIUM,Strengthen exam prep in Mathematics (34 pts).
+John Davis (S1810),74.2%,64.1,HIGH,Improve attendance and focus on upcoming assessments.
+John Johnson (S1811),76.5%,66.2,MEDIUM,Improve attendance from 76.5% to above 80% to avoid examination penalty. Strengthen exam prep in Science (46 pts).
+Ali Jones (S1812),55.3%,64.2,HIGH,Immediate attendance recovery required (current: 55.3% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 48).
+Maria Brown (S1813),57.0%,54.5,HIGH,Immediate attendance recovery required (current: 57.0% vs 75% cutoff). Aggregate marks (54.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 45).
+Maria Davis (S1814),91.6%,75.7,LOW,"Consistent academic standing (Attendance: 91.6%, Marks: 75.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Smith (S1815),56.0%,78.9,HIGH,Immediate attendance recovery required (current: 56.0% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 46). Clear pending assignment submissions with department TA.
+Ali Jones (S1816),75.5%,68.0,MEDIUM,Improve attendance from 75.5% to above 80% to avoid examination penalty. Strengthen exam prep in Science (50 pts).
+John Johnson (S1817),76.2%,76.6,MEDIUM,Improve attendance from 76.2% to above 80% to avoid examination penalty.
+Maria Johnson (S1818),60.8%,67.3,HIGH,Immediate attendance recovery required (current: 60.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25).
+Ali Brown (S1819),85.9%,62.0,MEDIUM,Strengthen exam prep in Writing (57 pts). Increase classroom discussion participation.
+Omar Smith (S1820),54.2%,79.5,HIGH,Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 36).
+Maria Smith (S1821),78.7%,76.4,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Emma Williams (S1822),78.5%,62.2,MEDIUM,Strengthen exam prep in Mathematics (46 pts). Increase classroom discussion participation.
+Omar Smith (S1823),95.7%,66.8,MEDIUM,Strengthen exam prep in Mathematics (19 pts).
+Liam Brown (S1824),76.3%,64.3,MEDIUM,Improve attendance from 76.3% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (49 pts).
+Maria Williams (S1825),79.1%,68.8,MEDIUM,Strengthen exam prep in Writing (37 pts).
+John Williams (S1826),78.6%,60.5,MEDIUM,Strengthen exam prep in Mathematics (31 pts).
+Sara Johnson (S1827),54.6%,79.7,HIGH,Immediate attendance recovery required (current: 54.6% vs 75% cutoff).
+Omar Johnson (S1828),60.2%,53.7,HIGH,Immediate attendance recovery required (current: 60.2% vs 75% cutoff). Aggregate marks (53.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9).
+Liam Smith (S1829),75.3%,79.0,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ahmed Williams (S1830),81.4%,84.6,LOW,"Consistent academic standing (Attendance: 81.4%, Marks: 84.6). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Johnson (S1831),54.2%,73.2,HIGH,Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Enroll in remedial workshops for Science (score: 32). Clear pending assignment submissions with department TA.
+John Brown (S1832),73.5%,74.5,MEDIUM,Improve attendance from 73.5% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Johnson (S1833),96.7%,52.1,HIGH,Aggregate marks (52.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 13).
+Ali Davis (S1834),86.0%,78.0,LOW,"Consistent academic standing (Attendance: 86.0%, Marks: 78.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Davis (S1835),92.6%,76.5,LOW,"Consistent academic standing (Attendance: 92.6%, Marks: 76.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Johnson (S1836),61.2%,78.5,HIGH,Immediate attendance recovery required (current: 61.2% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 43). Clear pending assignment submissions with department TA.
+Ahmed Williams (S1837),83.7%,88.0,LOW,"Consistent academic standing (Attendance: 83.7%, Marks: 88.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Williams (S1838),94.7%,60.6,MEDIUM,Strengthen exam prep in Mathematics (19 pts). Increase classroom discussion participation.
+Ahmed Jones (S1839),51.6%,71.3,HIGH,Immediate attendance recovery required (current: 51.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22). Clear pending assignment submissions with department TA.
+Omar Davis (S1840),90.6%,65.8,MEDIUM,Strengthen exam prep in Science (34 pts). Increase classroom discussion participation.
+Liam Brown (S1841),72.9%,56.7,HIGH,Aggregate marks (56.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 9).
+Ali Williams (S1842),77.3%,70.9,MEDIUM,Improve attendance from 77.3% to above 80% to avoid examination penalty. Strengthen exam prep in Science (47 pts).
+Omar Smith (S1843),97.9%,71.5,MEDIUM,Strengthen exam prep in Mathematics (55 pts). Increase classroom discussion participation.
+Ahmed Davis (S1844),87.4%,77.9,LOW,"Consistent academic standing (Attendance: 87.4%, Marks: 77.9). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Brown (S1845),92.5%,82.8,LOW,"Consistent academic standing (Attendance: 92.5%, Marks: 82.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Brown (S1846),67.7%,75.5,MEDIUM,Improve attendance from 67.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Sara Williams (S1847),77.7%,90.4,MEDIUM,Improve attendance from 77.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Brown (S1848),80.8%,78.0,LOW,"Consistent academic standing (Attendance: 80.8%, Marks: 78.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Williams (S1849),66.1%,89.3,MEDIUM,Improve attendance from 66.1% to above 80% to avoid examination penalty.
+Omar Johnson (S1850),78.5%,79.6,MEDIUM,Increase classroom discussion participation.
+Sara Davis (S1851),61.8%,72.2,HIGH,Immediate attendance recovery required (current: 61.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 38).
+Ahmed Jones (S1852),57.2%,64.6,HIGH,Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 32).
+John Johnson (S1853),68.7%,84.3,MEDIUM,Improve attendance from 68.7% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Omar Davis (S1854),87.0%,72.2,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ahmed Williams (S1855),95.8%,69.1,MEDIUM,Strengthen exam prep in Mathematics (44 pts). Increase classroom discussion participation.
+John Davis (S1856),91.4%,70.0,MEDIUM,Strengthen exam prep in Mathematics (34 pts). Increase classroom discussion participation.
+John Williams (S1857),82.1%,73.3,MEDIUM,Increase classroom discussion participation.
+Sara Johnson (S1858),55.1%,57.5,HIGH,Immediate attendance recovery required (current: 55.1% vs 75% cutoff). Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 39).
+Omar Smith (S1859),95.2%,75.3,LOW,"Consistent academic standing (Attendance: 95.2%, Marks: 75.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Smith (S1860),78.4%,73.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ali Davis (S1861),89.0%,64.6,MEDIUM,Strengthen exam prep in Mathematics (34 pts). Increase classroom discussion participation.
+Sara Smith (S1862),89.7%,83.0,LOW,"Consistent academic standing (Attendance: 89.7%, Marks: 83.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Williams (S1863),62.8%,82.3,HIGH,Immediate attendance recovery required (current: 62.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 53).
+Maria Brown (S1864),76.5%,64.1,MEDIUM,Improve attendance from 76.5% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (34 pts). Increase classroom discussion participation.
+Ali Williams (S1865),98.0%,66.3,MEDIUM,Strengthen exam prep in Writing (52 pts).
+Ahmed Brown (S1866),54.5%,70.0,HIGH,Immediate attendance recovery required (current: 54.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20).
+Emma Johnson (S1867),84.2%,58.8,HIGH,Aggregate marks (58.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 16).
+Omar Jones (S1868),98.1%,73.6,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Emma Brown (S1869),65.0%,61.8,HIGH,Immediate attendance recovery required (current: 65.0% vs 75% cutoff). Enroll in remedial workshops for Science (score: 29).
+Ahmed Smith (S1870),93.1%,71.0,MEDIUM,Strengthen exam prep in Science (9 pts).
+Liam Williams (S1871),96.7%,86.2,LOW,"Consistent academic standing (Attendance: 96.7%, Marks: 86.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Sara Johnson (S1872),87.3%,61.1,MEDIUM,Strengthen exam prep in Mathematics (26 pts).
+Ali Smith (S1873),61.6%,79.7,HIGH,Immediate attendance recovery required (current: 61.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 44).
+Sara Johnson (S1874),66.7%,84.7,MEDIUM,Improve attendance from 66.7% to above 80% to avoid examination penalty.
+John Jones (S1875),51.8%,73.3,HIGH,Immediate attendance recovery required (current: 51.8% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 25). Clear pending assignment submissions with department TA.
+Sara Williams (S1876),91.6%,64.9,MEDIUM,Strengthen exam prep in Reading (50 pts).
+Sara Davis (S1877),92.5%,79.0,LOW,"Consistent academic standing (Attendance: 92.5%, Marks: 79.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Williams (S1878),81.6%,67.3,MEDIUM,Strengthen exam prep in Science (61 pts). Increase classroom discussion participation.
+Ahmed Jones (S1879),67.6%,64.6,MEDIUM,Improve attendance from 67.6% to above 80% to avoid examination penalty. Strengthen exam prep in Science (40 pts).
+Ahmed Williams (S1880),53.8%,58.3,HIGH,Immediate attendance recovery required (current: 53.8% vs 75% cutoff). Aggregate marks (58.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Writing (score: 48). Clear pending assignment submissions with department TA.
+Emma Davis (S1881),87.7%,70.5,MEDIUM,Strengthen exam prep in Mathematics (51 pts). Increase classroom discussion participation.
+John Brown (S1882),86.3%,63.2,MEDIUM,Strengthen exam prep in Mathematics (27 pts).
+Liam Johnson (S1883),95.6%,80.7,LOW,"Consistent academic standing (Attendance: 95.6%, Marks: 80.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Davis (S1884),86.5%,55.5,HIGH,Aggregate marks (55.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 24).
+Ahmed Smith (S1885),91.4%,74.8,MEDIUM,Increase classroom discussion participation.
+Ali Jones (S1886),87.3%,68.0,MEDIUM,Strengthen exam prep in Mathematics (12 pts). Increase classroom discussion participation.
+Emma Brown (S1887),81.5%,52.5,HIGH,Aggregate marks (52.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 43).
+Maria Smith (S1888),71.3%,79.9,MEDIUM,Improve attendance from 71.3% to above 80% to avoid examination penalty.
+Ali Smith (S1889),95.1%,60.4,MEDIUM,Strengthen exam prep in Mathematics (39 pts). Increase classroom discussion participation.
+Omar Jones (S1890),56.9%,75.0,HIGH,Immediate attendance recovery required (current: 56.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 22).
+Omar Brown (S1891),69.9%,77.3,MEDIUM,Improve attendance from 69.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Smith (S1892),54.2%,75.1,HIGH,Immediate attendance recovery required (current: 54.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 36). Clear pending assignment submissions with department TA.
+Ahmed Smith (S1893),56.1%,58.1,HIGH,Immediate attendance recovery required (current: 56.1% vs 75% cutoff). Aggregate marks (58.1) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 15).
+Maria Brown (S1894),77.2%,60.9,MEDIUM,Improve attendance from 77.2% to above 80% to avoid examination penalty. Strengthen exam prep in Reading (40 pts).
+Maria Williams (S1895),63.8%,62.6,HIGH,Immediate attendance recovery required (current: 63.8% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 50).
+Emma Smith (S1896),61.1%,78.3,HIGH,Immediate attendance recovery required (current: 61.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 26).
+Maria Johnson (S1897),76.4%,69.4,MEDIUM,Improve attendance from 76.4% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (17 pts).
+Omar Brown (S1898),58.5%,92.4,HIGH,Immediate attendance recovery required (current: 58.5% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 46).
+John Smith (S1899),90.0%,84.8,LOW,"Consistent academic standing (Attendance: 90.0%, Marks: 84.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Jones (S1900),74.2%,85.9,MEDIUM,Improve attendance from 74.2% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Davis (S1901),78.7%,74.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Emma Johnson (S1902),57.4%,49.8,HIGH,Immediate attendance recovery required (current: 57.4% vs 75% cutoff). Aggregate marks (49.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 22). Clear pending assignment submissions with department TA.
+Omar Davis (S1903),66.2%,74.1,MEDIUM,Improve attendance from 66.2% to above 80% to avoid examination penalty.
+John Davis (S1904),70.5%,57.4,HIGH,Aggregate marks (57.4) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 46).
+Sara Smith (S1905),69.0%,66.8,MEDIUM,Improve attendance from 69.0% to above 80% to avoid examination penalty. Strengthen exam prep in Writing (38 pts). Increase classroom discussion participation.
+Sara Johnson (S1906),88.5%,83.8,LOW,"Consistent academic standing (Attendance: 88.5%, Marks: 83.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Johnson (S1907),61.1%,61.1,HIGH,Immediate attendance recovery required (current: 61.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 11).
+Omar Williams (S1908),80.8%,62.3,MEDIUM,Strengthen exam prep in Mathematics (44 pts). Increase classroom discussion participation.
+Emma Davis (S1909),62.2%,60.5,HIGH,Immediate attendance recovery required (current: 62.2% vs 75% cutoff). Enroll in remedial workshops for Science (score: 35).
+John Johnson (S1910),99.4%,87.5,LOW,"Consistent academic standing (Attendance: 99.4%, Marks: 87.5). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Williams (S1911),97.6%,86.8,LOW,"Consistent academic standing (Attendance: 97.6%, Marks: 86.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Brown (S1912),78.2%,64.3,MEDIUM,Strengthen exam prep in Mathematics (21 pts). Increase classroom discussion participation.
+Sara Williams (S1913),85.0%,88.1,LOW,"Consistent academic standing (Attendance: 85.0%, Marks: 88.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Jones (S1914),90.1%,59.7,MEDIUM,Strengthen exam prep in Mathematics (43 pts).
+Emma Smith (S1915),86.0%,70.5,MEDIUM,Strengthen exam prep in Mathematics (63 pts). Increase classroom discussion participation.
+Sara Brown (S1916),85.0%,67.8,MEDIUM,Strengthen exam prep in Science (26 pts).
+Maria Brown (S1917),90.5%,58.8,HIGH,Aggregate marks (58.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 35).
+Maria Jones (S1918),79.8%,69.9,MEDIUM,Strengthen exam prep in Mathematics (47 pts). Increase classroom discussion participation.
+Liam Williams (S1919),81.8%,52.7,HIGH,Aggregate marks (52.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 14).
+Ahmed Smith (S1920),92.5%,69.5,MEDIUM,Strengthen exam prep in Writing (33 pts). Increase classroom discussion participation.
+Omar Williams (S1921),83.5%,57.3,HIGH,Aggregate marks (57.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Reading (score: 17). Clear pending assignment submissions with department TA.
+Ali Johnson (S1922),86.7%,64.9,MEDIUM,Strengthen exam prep in Writing (45 pts). Increase classroom discussion participation.
+Omar Williams (S1923),61.7%,81.7,HIGH,Immediate attendance recovery required (current: 61.7% vs 75% cutoff). Enroll in remedial workshops for Science (score: 49). Clear pending assignment submissions with department TA.
+Ali Brown (S1924),68.6%,57.5,HIGH,Immediate attendance recovery required (current: 68.6% vs 75% cutoff). Aggregate marks (57.5) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 14). Clear pending assignment submissions with department TA.
+John Smith (S1925),57.4%,64.4,HIGH,Immediate attendance recovery required (current: 57.4% vs 75% cutoff).
+Ahmed Williams (S1926),75.3%,65.7,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Science (34 pts).
+Maria Smith (S1927),72.8%,77.0,MEDIUM,Improve attendance from 72.8% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Smith (S1928),99.9%,75.3,LOW,"Consistent academic standing (Attendance: 99.9%, Marks: 75.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Johnson (S1929),80.6%,67.5,MEDIUM,Strengthen exam prep in Mathematics (41 pts).
+Omar Johnson (S1930),89.3%,58.8,HIGH,Aggregate marks (58.8) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 38).
+Maria Brown (S1931),75.3%,65.3,MEDIUM,Improve attendance from 75.3% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (15 pts).
+Ali Jones (S1932),91.6%,60.5,MEDIUM,Strengthen exam prep in Mathematics (39 pts). Increase classroom discussion participation.
+Ali Smith (S1933),80.8%,60.6,MEDIUM,Strengthen exam prep in Mathematics (25 pts). Increase classroom discussion participation.
+Liam Jones (S1934),84.8%,71.7,MEDIUM,Strengthen exam prep in Reading (46 pts).
+Ali Brown (S1935),64.7%,80.5,HIGH,Immediate attendance recovery required (current: 64.7% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 31).
+Emma Smith (S1936),77.4%,51.0,HIGH,Aggregate marks (51.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 7).
+Ahmed Smith (S1937),81.7%,83.1,LOW,"Consistent academic standing (Attendance: 81.7%, Marks: 83.1). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Emma Davis (S1938),79.5%,56.3,HIGH,Aggregate marks (56.3) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Science (score: 46).
+Sara Jones (S1939),95.1%,66.5,MEDIUM,Strengthen exam prep in Mathematics (19 pts). Increase classroom discussion participation.
+Maria Williams (S1940),94.9%,66.6,MEDIUM,Strengthen exam prep in Writing (49 pts). Increase classroom discussion participation.
+Ahmed Johnson (S1941),98.5%,85.4,LOW,"Consistent academic standing (Attendance: 98.5%, Marks: 85.4). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Williams (S1942),83.4%,64.2,MEDIUM,Strengthen exam prep in Mathematics (54 pts).
+Ahmed Jones (S1943),98.6%,79.7,LOW,"Consistent academic standing (Attendance: 98.6%, Marks: 79.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ahmed Johnson (S1944),91.6%,65.4,MEDIUM,Strengthen exam prep in Mathematics (51 pts).
+Omar Williams (S1945),63.5%,66.1,HIGH,Immediate attendance recovery required (current: 63.5% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 50).
+Ahmed Davis (S1946),97.3%,66.8,MEDIUM,Strengthen exam prep in Mathematics (29 pts).
+Liam Johnson (S1947),61.9%,55.9,HIGH,Immediate attendance recovery required (current: 61.9% vs 75% cutoff). Aggregate marks (55.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 13).
+Emma Smith (S1948),50.2%,79.7,HIGH,Immediate attendance recovery required (current: 50.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 14). Clear pending assignment submissions with department TA.
+Ahmed Williams (S1949),59.4%,79.1,HIGH,Immediate attendance recovery required (current: 59.4% vs 75% cutoff). Enroll in remedial workshops for Reading (score: 17). Clear pending assignment submissions with department TA.
+John Johnson (S1950),50.2%,61.2,HIGH,Immediate attendance recovery required (current: 50.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 34).
+Maria Davis (S1951),86.0%,70.1,MEDIUM,Strengthen exam prep in Mathematics (36 pts). Increase classroom discussion participation.
+Ahmed Johnson (S1952),71.3%,73.1,MEDIUM,Improve attendance from 71.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Maria Johnson (S1953),65.6%,83.4,MEDIUM,Improve attendance from 65.6% to above 80% to avoid examination penalty.
+John Davis (S1954),88.1%,84.2,LOW,"Consistent academic standing (Attendance: 88.1%, Marks: 84.2). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+John Williams (S1955),79.3%,67.5,MEDIUM,Strengthen exam prep in Writing (60 pts). Increase classroom discussion participation.
+Maria Brown (S1956),98.8%,83.0,LOW,"Consistent academic standing (Attendance: 98.8%, Marks: 83.0). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Ali Williams (S1957),82.1%,65.3,MEDIUM,Strengthen exam prep in Mathematics (42 pts).
+Sara Jones (S1958),73.1%,61.3,HIGH,Enroll in remedial workshops for Writing (score: 45).
+Omar Davis (S1959),65.3%,72.1,MEDIUM,Improve attendance from 65.3% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Ali Williams (S1960),61.1%,64.6,HIGH,Immediate attendance recovery required (current: 61.1% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 36).
+Ali Johnson (S1961),60.6%,53.0,HIGH,Immediate attendance recovery required (current: 60.6% vs 75% cutoff). Aggregate marks (53.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 43).
+Emma Davis (S1962),70.5%,60.1,HIGH,Enroll in remedial workshops for Mathematics (score: 7).
+Omar Smith (S1963),99.6%,80.7,LOW,"Consistent academic standing (Attendance: 99.6%, Marks: 80.7). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Omar Williams (S1964),50.0%,64.6,HIGH,Immediate attendance recovery required (current: 50.0% vs 75% cutoff).
+Ali Davis (S1965),59.9%,61.4,HIGH,Immediate attendance recovery required (current: 59.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 35).
+Ahmed Williams (S1966),59.4%,68.0,HIGH,Immediate attendance recovery required (current: 59.4% vs 75% cutoff). Enroll in remedial workshops for Science (score: 53).
+Emma Davis (S1967),85.9%,63.1,MEDIUM,Strengthen exam prep in Mathematics (41 pts).
+Emma Johnson (S1968),79.5%,71.3,MEDIUM,Strengthen exam prep in Science (38 pts).
+John Smith (S1969),72.9%,67.2,HIGH,Enroll in remedial workshops for Science (score: 47).
+Liam Smith (S1970),57.4%,72.6,HIGH,Immediate attendance recovery required (current: 57.4% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 25).
+Omar Jones (S1971),70.2%,76.5,MEDIUM,Improve attendance from 70.2% to above 80% to avoid examination penalty.
+Ali Davis (S1972),55.2%,60.2,HIGH,Immediate attendance recovery required (current: 55.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 24).
+John Williams (S1973),76.7%,65.7,MEDIUM,Improve attendance from 76.7% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (31 pts). Increase classroom discussion participation.
+Maria Smith (S1974),54.9%,69.0,HIGH,Immediate attendance recovery required (current: 54.9% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 17). Clear pending assignment submissions with department TA.
+Sara Smith (S1975),89.5%,64.3,MEDIUM,Strengthen exam prep in Writing (31 pts).
+Liam Brown (S1976),78.3%,82.0,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Liam Brown (S1977),86.2%,87.8,LOW,"Consistent academic standing (Attendance: 86.2%, Marks: 87.8). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Liam Smith (S1978),70.9%,83.2,MEDIUM,Improve attendance from 70.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Emma Davis (S1979),69.1%,88.8,MEDIUM,Improve attendance from 69.1% to above 80% to avoid examination penalty.
+Maria Jones (S1980),54.9%,77.2,HIGH,Immediate attendance recovery required (current: 54.9% vs 75% cutoff). Enroll in remedial workshops for Science (score: 47). Clear pending assignment submissions with department TA.
+Liam Smith (S1981),76.2%,50.9,HIGH,Aggregate marks (50.9) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 21).
+Maria Johnson (S1982),75.7%,63.5,MEDIUM,Improve attendance from 75.7% to above 80% to avoid examination penalty. Strengthen exam prep in Mathematics (7 pts). Increase classroom discussion participation.
+Ahmed Williams (S1983),73.4%,60.1,HIGH,Enroll in remedial workshops for Mathematics (score: 28). Clear pending assignment submissions with department TA.
+Liam Jones (S1984),87.0%,71.0,MEDIUM,Strengthen exam prep in Mathematics (59 pts).
+Sara Johnson (S1985),64.4%,68.9,HIGH,Immediate attendance recovery required (current: 64.4% vs 75% cutoff). Enroll in remedial workshops for Science (score: 47).
+Maria Jones (S1986),87.5%,66.8,MEDIUM,Strengthen exam prep in Reading (62 pts).
+Maria Johnson (S1987),57.2%,67.4,HIGH,Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Science (score: 46).
+Sara Williams (S1988),81.1%,64.8,MEDIUM,Strengthen exam prep in Mathematics (24 pts).
+Liam Williams (S1989),54.0%,63.5,HIGH,Immediate attendance recovery required (current: 54.0% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 20).
+Sara Brown (S1990),100.0%,57.7,HIGH,Aggregate marks (57.7) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 25).
+Maria Davis (S1991),69.1%,77.3,MEDIUM,Improve attendance from 69.1% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Sara Johnson (S1992),56.6%,67.0,HIGH,Immediate attendance recovery required (current: 56.6% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 31).
+Maria Brown (S1993),93.1%,77.3,LOW,"Consistent academic standing (Attendance: 93.1%, Marks: 77.3). Recommended for peer tutoring roles, honors seminars, and research initiatives."
+Maria Johnson (S1994),80.7%,72.2,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
+Ahmed Brown (S1995),67.7%,89.2,MEDIUM,Improve attendance from 67.7% to above 80% to avoid examination penalty.
+Ali Williams (S1996),51.5%,69.2,HIGH,Immediate attendance recovery required (current: 51.5% vs 75% cutoff). Enroll in remedial workshops for Writing (score: 48).
+Maria Jones (S1997),76.9%,82.1,MEDIUM,Improve attendance from 76.9% to above 80% to avoid examination penalty. Increase classroom discussion participation.
+Liam Brown (S1998),96.2%,51.0,HIGH,Aggregate marks (51.0) are critical; mandatory faculty mentoring initiated. Enroll in remedial workshops for Mathematics (score: 22). Clear pending assignment submissions with department TA.
+John Johnson (S1999),79.8%,73.7,MEDIUM,Maintain consistent study schedule and monitor upcoming project milestones.
