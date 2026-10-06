@@ -1,139 +1,216 @@
-# EduPulse AI: Intelligent Student Academic Risk Assessment & Intervention System
+<p align="center">
+  <h1 align="center">🎓 EduPulse AI</h1>
+  <p align="center">
+    <strong>Intelligent Student Academic Risk Assessment & Automated Intervention System</strong>
+  </p>
+  <p align="center">
+    An end-to-end Machine Learning early-warning diagnostic pipeline designed to identify at-risk students, predict academic attrition, and automatically generate personalized remedial intervention reports.
+  </p>
+</p>
 
-**An End-to-End Machine Learning Diagnostic Pipeline for Early Warning, Predictive Risk Classification, and Automated Remedial Recommendations**
-
-**Dataset:** [Student Performance Dataset](https://www.kaggle.com/datasets/ganeshkumarofficial/student-dataset) (`dcs_student_data.csv`)  
-**Core Technologies:** Python, Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python Version" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1.4%2B-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Model%20Accuracy-96.30%25-brightgreen" alt="Model Accuracy" />
+  <img src="https://img.shields.io/badge/Weighted%20F1-96.31%25-success" alt="Weighted F1 Score" />
+  <img src="https://img.shields.io/badge/Dataset-10%2C000%20Students-blueviolet" alt="Dataset Size" />
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+</p>
 
 ---
 
-## 📌 Executive Summary
+## 📑 Table of Contents
+- [Executive Overview](#-executive-overview)
+- [System Architecture & Workflow](#-system-architecture--workflow)
+- [Repository Structure](#-repository-structure)
+- [Section 1: Data Exploration & Quality Audit](#-section-1-data-exploration--quality-audit)
+- [Section 2: Data Preprocessing & Feature Engineering](#-section-2-data-preprocessing--feature-engineering)
+- [Section 3: Institutional Risk Formulation](#-section-3-institutional-risk-formulation)
+- [Section 4: Machine Learning Benchmarks & Evaluation](#-section-4-machine-learning-benchmarks--evaluation)
+- [Section 5: Diagnostic Recommendation Engine](#-section-5-diagnostic-recommendation-engine)
+- [Section 6: Automated Batch Reporting Pipeline](#-section-6-automated-batch-reporting-pipeline)
+- [Quickstart & Reproduction Guide](#-quickstart--reproduction-guide)
+- [License](#-license)
 
-Higher educational institutions require reliable, early-warning diagnostic systems to identify students at academic risk well before end-semester examinations. Early detection enables academic advisors, faculty mentors, and counselors to allocate targeted tutoring, schedule personalized mentoring sessions, and remediate attendance deficits before students face exam debarment or academic probation.
+---
 
-**EduPulse AI** delivers a production-grade Machine Learning solution and automated reporting pipeline designed to:
-1. **Audit & Preprocess Academic Telemetry:** Clean and handle missing values, out-of-bounds metrics, corrupted entries, and exact duplicates.
-2. **Formulate Institutional Risk Tiers:** Ground risk classifications in real-world university attendance bylaws and academic passing thresholds.
-3. **Train & Compare Predictive Models:** Benchmark **Logistic Regression**, **Decision Tree**, **Random Forest**, and **Gradient Boosting** classifiers with rigorous stratified validation.
-4. **Deliver Diagnostic Recommendations:** Generate personalized, student-specific intervention plans addressing root causes (attendance deficit, continuous assessment gaps, or subject-level struggles).
-5. **Automate Institutional Reporting:** Produce instant batch reports (`Student | Attendance | Marks | Risk | Recommendation`) for institutional leadership and department heads.
+## 📌 Executive Overview
+
+Educational institutions and universities face significant retention challenges when student disengagement and academic struggles are identified too late in the semester. Standard end-of-term evaluations often come after examinations when debarment, course failure, or academic probation has already occurred.
+
+**EduPulse AI** solves this problem by delivering a proactive **Machine Learning Early-Warning System (EWS)** that:
+- **Detects Disengagement Early:** Correlates non-linear relationships between attendance patterns, continuous assessment milestones, and examination scores.
+- **Audits Data Quality:** Automatically identifies and rectifies corruptions such as out-of-bounds metrics, malformed string encodings, and synthetic outliers.
+- **Accurately Classifies Academic Risk:** Deploys an ensemble classifier attaining **96.30% Accuracy** and **96.31% Weighted F1-Score**.
+- **Delivers Actionable Insights:** Replaces generic warning letters with personalized diagnostic intervention advice addressing individual root causes (e.g. Mathematics remedial clinics, TA office hours, or attendance counseling).
+- **Automates Batch Reporting:** Compiles structured reports (`Student | Attendance | Marks | Risk | Recommendation`) across entire departments in seconds.
+
+---
+
+## 🏗️ System Architecture & Workflow
+
+```mermaid
+flowchart TD
+    A["Raw Student Telemetry<br/>(dcs_student_data.csv)"] --> B["Data Quality Audit<br/>& Sanitization"]
+    B -->|Deduplication & Clipping| C["Missing Value Imputation<br/>& Feature Engineering"]
+    C --> D["Institutional Risk Matrix<br/>(Ground Truth Formulation)"]
+    D --> E["Stratified 80/20 Train-Test Split"]
+    
+    subgraph Model_Benchmarking ["Model Training & Benchmarking"]
+        E --> M1["Logistic Regression<br/>(Baseline: 81.90%)"]
+        E --> M2["Decision Tree<br/>(Acc: 90.00%)"]
+        E --> M3["Random Forest<br/>(Acc: 93.45%)"]
+        E --> M4["Gradient Boosting<br/>(Acc: 96.30% / Best)"]
+    end
+    
+    M4 --> F["Root-Cause Diagnostic Engine"]
+    F --> G["Individual Student Prediction<br/>(Structured Output)"]
+    F --> H["Automated Institutional Reports<br/>(CSV & Markdown)"]
+```
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-├── dcs_student_data.csv            # Cleaned source dataset (10,030 student records)
+├── dcs_student_data.csv            # Cleaned student dataset (10,030 records)
+├── student_risk_analysis.ipynb     # Interactive Jupyter Notebook with complete analysis & plots
 ├── solution.py                     # Self-contained end-to-end Python pipeline
-├── student_risk_analysis.ipynb     # Interactive Jupyter Notebook with analysis & plots
-├── generate_visualizations.py      # Script to render publication-ready figures
-├── create_notebook.py              # Automated Jupyter notebook builder script
-├── requirements.txt                # Frozen Python dependencies
-├── images/                         # Generated visualizations and metric plots
+├── generate_visualizations.py      # Automated script exporting high-res analytical charts
+├── create_notebook.py              # Script to build and format student_risk_analysis.ipynb
+├── requirements.txt                # Frozen production dependencies
+├── LICENSE                         # MIT License
+├── .gitignore                      # Python & environment ignore rules
+├── images/                         # Publication-grade analytical plots
 │   ├── eda_attendance_vs_marks.png
 │   ├── eda_correlation_matrix.png
 │   ├── eda_department_and_grade_risk.png
 │   ├── model_comparison_metrics.png
 │   ├── confusion_matrices.png
 │   └── feature_importance.png
-├── reports/                        # Automated reporting deliverables
+├── reports/                        # Automated institutional report exports
 │   ├── student_risk_report.csv     # Full batch report (Student | Attendance | Risk | Recommendation)
-│   └── student_risk_report.md      # Formatted Markdown report preview
-└── README.md                       # Comprehensive project documentation
+│   └── student_risk_report.md      # Formatted Markdown table report preview
+└── README.md                       # Comprehensive documentation
 ```
 
 ---
 
-## 🔍 Section 1: Exploratory Data Analysis & Data Quality Audit
+## 🔍 Section 1: Data Exploration & Quality Audit
 
-During exploratory analysis, an in-depth audit of the raw dataset (`10,030` rows, `21` columns) revealed several **data quality anomalies and corruptions** that were systematically identified and handled:
+During exploratory analysis of the raw student dataset (`10,030` rows, `21` columns), several **data anomalies and synthetic corruptions** were detected and systematically audited:
 
-1. **Exact Duplicate Records:** 30 duplicate records were detected and purged.
-2. **Malformed String Types:** The `math_score` column was parsed as `object` (string) due to entries containing whitespace and escape sequences (e.g. `\t41`).
-3. **Out-of-Bounds Attendance:** Percentages contained negative numbers (`-12.0%`) and values exceeding 100% (`135.0%`).
-4. **Out-of-Bounds Examination Scores:** `Midterm_Score` and `Final_Score` contained negative values (`-8.0`, `-5.0`) and scores exceeding the 100-point ceiling (`145.0`, `132.0`).
-5. **Biologically Implausible Ages:** `Age` contained negative numbers (`-3.0`) and outlier values (`87.0`).
-6. **Inconsistent Categorical Text:**
-   - `Department`: Multiple representations for identical departments (`"CS"` vs `"Computer Science"`, `"Math"` vs `"Mathematics"`, `"BUSINESS"` vs `"Business"`, and leading whitespaces like `" engineering"`).
-   - `Gender`: Trailing and leading whitespaces (`" MALE "`, `" FEMALE "`).
-7. **Missing Values:** Approximately 2% null values were present across numeric performance columns.
-
-### Key Finding: Attendance vs. Academic Performance
-Analysis demonstrates that attendance is the primary leading indicator of academic performance. Students with attendance below the mandatory 75% threshold exhibit a high probability of failing or borderline grades, making early attendance tracking essential.
-
----
-
-## ⚙️ Section 2: Data Preprocessing Pipeline
-
-To guarantee data integrity and prevent data leakage:
-1. **Deduplication:** Dropped exact duplicate rows, retaining 10,000 unique student profiles.
-2. **Categorical Standardization:** Stripped whitespace and unified department names (`CS` $\rightarrow$ `Computer Science`, `Math` $\rightarrow$ `Mathematics`, etc.) and title-cased gender.
-3. **Type Restoration:** Cleaned and cast `math_score` to numeric floats.
-4. **Domain Boundary Clipping:** Constrained `Attendance (%)`, `Midterm_Score`, and `Final_Score` strictly to `[0.0, 100.0]`. Filtered anomalous ages outside `[15, 60]`.
-5. **Contextual Median Imputation:** Imputed missing values using feature medians.
-6. **Feature Engineering:**
-   - `Core_Subjects_Avg`: Unweighted mean across foundational subjects (`math_score`, `reading_score`, `writing_score`, `science_score`).
-   - `Overall_Marks`: Weighted composite score combining continuous coursework assessment (`Total_Score`, 60%) and foundational subject exams (40%).
-
----
-
-## 🎯 Section 3: Academic Risk Criteria Definition
-
-In institutional higher education and technical universities, risk classification reflects regulatory cutoff rules and academic grading policies:
-
-### 1. Regulatory Attendance Threshold (Mandatory 75% Cutoff)
-- **Attendance < 65%:** Severe risk of detention / exam debarment.
-- **Attendance 65% – 79.9%:** Cautionary zone requiring formal advisories.
-- **Attendance $\ge$ 80%:** Compliant academic standing.
-
-### 2. Academic Score Threshold (Passing & Good Standing)
-- **Marks < 60:** High risk of failing coursework or graduating with sub-par CGPA (< 6.0).
-- **Marks 60 – 74.9:** Borderline / average performance requiring monitoring.
-- **Marks $\ge$ 75:** Good to excellent academic health.
-
-### Formal Multi-Tier Classification Matrix
-
-| Risk Tier | Operational Criteria | Institutional Action |
+| Anomaly Identified | Raw Manifestation | Corrective Action Taken |
 | :--- | :--- | :--- |
-| **HIGH RISK** | `Attendance < 65%` **OR** `Overall_Marks < 60` **OR** (`Attendance < 75%` **AND** `Overall_Marks < 68`) | Immediate intervention: Faculty mentoring, attendance recovery plan, and remedial workshops. |
-| **MEDIUM RISK** | `Attendance < 80%` **OR** `Overall_Marks < 75` (and not High Risk) | Cautionary advisory, peer tutoring, and close monitoring prior to midterms. |
-| **LOW RISK** | `Attendance >= 80%` **AND** `Overall_Marks >= 75` | Academic commendation; eligible for honors electives, research projects, and teaching assistantships. |
+| **Exact Duplicates** | 30 duplicated student rows | Removed duplicates, retaining 10,000 unique records. |
+| **Malformed String Data** | `math_score` formatted as object due to `\t41` | Stripped whitespace/tabs and cast to numeric float. |
+| **Out-of-Bounds Attendance** | Negative values (`-12.0%`) and values $>100\%$ (`135.0%`) | Clipped strictly to valid domain $[0.0, 100.0]$. |
+| **Out-of-Bounds Exam Scores** | `Midterm_Score` & `Final_Score` with $-8.0$ and $145.0$ | Clamped scores to institutional grading scale $[0.0, 100.0]$. |
+| **Age Outliers** | Negative ages (`-3.0`) and senior ages (`87.0`) | Replaced out-of-range values with median university age. |
+| **Inconsistent Categorical Text** | `"CS"` vs `"Computer Science"`, `" engineering"`, `"BUSINESS"` | Standardized department naming and title-cased gender. |
+| **Missing Values** | $\sim 2\%$ missing records across numerical features | Contextually imputed using median statistics. |
 
-**Resulting Population Distribution:**
-- **High Risk:** 42.62%
-- **Medium Risk:** 42.61%
-- **Low Risk:** 14.77%
+### Exploratory Visualizations
+
+<p align="center">
+  <img src="images/eda_attendance_vs_marks.png" alt="Attendance vs Overall Marks" width="85%" />
+  <br/>
+  <em>Figure 1: Relationship between Attendance (%) and Composite Academic Marks across Risk Tiers.</em>
+</p>
+
+<p align="center">
+  <img src="images/eda_correlation_matrix.png" alt="Feature Correlation Matrix" width="85%" />
+  <br/>
+  <em>Figure 2: Correlation Heatmap across Academic Performance and Continuous Assessment metrics.</em>
+</p>
 
 ---
 
-## 🤖 Section 4: Machine Learning Model Comparison & Evaluation
+## ⚙️ Section 2: Data Preprocessing & Feature Engineering
 
-To evaluate model generalization, an **80/20 Stratified Split** was implemented. All candidate models were trained strictly on **raw student features** (`Attendance (%)`, `Age`, `Midterm_Score`, `Final_Score`, `Assignments_Avg`, `Quizzes_Avg`, `Participation_Score`, `Projects_Score`, `Total_Score`, `test_preparation_course`, `math_score`, `reading_score`, `writing_score`, `science_score`, `Department`, `Gender`).
+To guarantee data integrity and eliminate data leakage:
+1. **Deduplication:** Dropped exact duplicates, preserving 10,000 unique records.
+2. **Text Standardization:** Unified categorical variables to clean taxonomy.
+3. **Type Restoration:** Converted corrupted score columns to standard numerical formats.
+4. **Boundary Validation:** Constrained percentages and examination scores strictly to $[0.0, 100.0]$.
+5. **Contextual Imputation:** Imputed missing values using robust feature medians.
+6. **Feature Engineering:**
+   - **`Core_Subjects_Avg`:** Unweighted arithmetic mean across foundational disciplines (`math_score`, `reading_score`, `writing_score`, `science_score`).
+   - **`Overall_Marks`:** Composite performance metric blending continuous coursework (`Total_Score`, 60%) and core subject examinations (40%).
 
-### Comparative Performance Table
+---
 
-| Algorithm | Accuracy | Weighted Precision | Weighted Recall | Weighted F1 | Macro F1 |
+## 🎯 Section 3: Institutional Risk Formulation
+
+In institutional higher education, academic retention systems rely on early-warning thresholds informed by statutory attendance rules and passing benchmarks:
+
+### Operational Risk Matrix
+
+| Risk Level | Operational Criteria | Strategic Institutional Action |
+| :---: | :--- | :--- |
+| **HIGH RISK** | `Attendance < 65%` **OR** `Overall_Marks < 60` **OR** (`Attendance < 75%` **AND** `Overall_Marks < 68`) | Immediate intervention: Faculty counseling, attendance recovery contracts, and mandatory remedial clinics. |
+| **MEDIUM RISK** | `Attendance < 80%` **OR** `Overall_Marks < 75` (and not High Risk) | Early warning advisory, peer tutoring, and continuous progress monitoring prior to midterms. |
+| **LOW RISK** | `Attendance >= 80%` **AND** `Overall_Marks >= 75` | Academic commendation; eligible for research assistantships, peer mentoring, and honors electives. |
+
+### Population Distribution
+- **High Risk:** 42.62% (4,262 students)
+- **Medium Risk:** 42.61% (4,261 students)
+- **Low Risk:** 14.77% (1,477 students)
+
+<p align="center">
+  <img src="images/eda_department_and_grade_risk.png" alt="Department & Grade Risk Distribution" width="85%" />
+  <br/>
+  <em>Figure 3: Risk Tier Distributions across Academic Departments and Historical Institutional Grades.</em>
+</p>
+
+---
+
+## 🤖 Section 4: Machine Learning Benchmarks & Evaluation
+
+All candidate models were trained strictly on **raw telemetry features** (`Attendance (%)`, `Age`, `Midterm_Score`, `Final_Score`, `Assignments_Avg`, `Quizzes_Avg`, `Participation_Score`, `Projects_Score`, `Total_Score`, `test_preparation_course`, `math_score`, `reading_score`, `writing_score`, `science_score`, `Department`, `Gender`) using an **80/20 Stratified Split**.
+
+### Comparative Performance Benchmark
+
+| Model Algorithm | Accuracy | Weighted Precision | Weighted Recall | Weighted F1 | Macro F1 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Logistic Regression** | 81.90% | 82.13% | 81.90% | 81.94% | 81.10% |
+| **Logistic Regression (L2)** | 81.90% | 82.13% | 81.90% | 81.94% | 81.10% |
 | **Decision Tree (depth=6)** | 90.00% | 90.32% | 90.00% | 90.07% | 89.30% |
 | **Random Forest (n=100)** | 93.45% | 93.96% | 93.45% | 93.45% | 92.53% |
-| **Gradient Boosting (Best)** | **96.30%** | **96.34%** | **96.30%** | **96.31%** | **96.04%** |
+| **Gradient Boosting (Champion)** | **96.30%** | **96.34%** | **96.30%** | **96.31%** | **96.04%** |
 
-### Evaluation Takeaways:
-- **Logistic Regression** serves as a fast baseline, capturing linear separation with ~81.9% accuracy.
-- **Tree Ensembles** significantly outperform linear boundaries due to non-linear combinations of attendance and subject thresholds.
-- **Gradient Boosting** achieved top performance with **96.30% Accuracy** and **96.31% F1-score**. Crucially, it achieved **0.98 Precision** and **0.96 Recall** on the **HIGH RISK** class, minimizing costly false negatives (students failing without timely warning).
+### Evaluation Insights & Confusion Matrix Analysis
+
+<p align="center">
+  <img src="images/model_comparison_metrics.png" alt="Model Comparison Metrics" width="85%" />
+  <br/>
+  <em>Figure 4: Comparative Accuracy, Precision, Recall, and F1-Scores across evaluated classifiers.</em>
+</p>
+
+<p align="center">
+  <img src="images/confusion_matrices.png" alt="Confusion Matrices" width="85%" />
+  <br/>
+  <em>Figure 5: 2x2 Confusion Matrices Grid showing classification error distributions for all models.</em>
+</p>
+
+- **False Negative Mitigation:** For an early warning system, false negatives (failing to detect a high-risk student) carry significant cost. Gradient Boosting achieved a **0.98 Precision** and **0.96 Recall** on the **HIGH RISK** tier, demonstrating reliable identification of at-risk students.
+- **Non-Linear Interactions:** Feature importance reveals that `Attendance (%)` and continuous coursework scores dominate the decision splits, which ensemble tree architectures capture with higher fidelity than linear baselines.
+
+<p align="center">
+  <img src="images/feature_importance.png" alt="Top Feature Importances" width="85%" />
+  <br/>
+  <em>Figure 6: Top predictive telemetry features driving student risk classification.</em>
+</p>
 
 ---
 
-## 💡 Section 5: Prediction & Tailored Recommendation System
+## 💡 Section 5: Diagnostic Recommendation Engine
 
-The recommendation engine performs diagnostic root-cause analysis on each student's profile:
-1. Calculates attendance shortfall against the 75% university benchmark.
-2. Identifies specific course/subject weaknesses (e.g. Mathematics vs Science).
-3. Evaluates continuous assessment submission rates (assignments, quizzes, participation).
+Rather than generic alerts, EduPulse AI incorporates a root-cause diagnostic engine that examines:
+1. **Attendance Shortfall:** Distance below the 75% statutory exam cutoff.
+2. **Subject Disparity:** Isolates specific subject weaknesses (`Mathematics`, `Reading`, `Writing`, or `Science`).
+3. **Engagement Telemetry:** Evaluates assignment completion rates and classroom participation.
 
-### Sample Output Format:
+### Sample System Predictions
 
 ```text
 Student: Omar Williams (S1000)
@@ -152,7 +229,15 @@ Recommendation: Strengthen exam prep in Mathematics (65 pts).
 ```
 
 ```text
-Student: John Doe (S2045)
+Student: Ahmed Jones (S1002)
+Attendance: 57.2%
+Marks: 68.6
+Risk: HIGH
+Recommendation: Immediate attendance recovery required (current: 57.2% vs 75% cutoff). Enroll in remedial workshops for Mathematics (score: 10).
+```
+
+```text
+Student: Maria Garcia (S1015)
 Attendance: 88.5%
 Marks: 82.1
 Risk: LOW
@@ -161,13 +246,13 @@ Recommendation: Consistent academic standing (Attendance: 88.5%, Marks: 82.1). R
 
 ---
 
-## ⚡ Section 6: Automated Institutional Reporting
+## ⚡ Section 6: Automated Batch Reporting Pipeline
 
-The system includes automated batch report generation, saving the results in both CSV and Markdown formats:
-- CSV: `reports/student_risk_report.csv`
-- Markdown: `reports/student_risk_report.md`
+The pipeline automatically compiles and exports institutional reports in both CSV and Markdown formats:
+- **CSV Export:** [`reports/student_risk_report.csv`](reports/student_risk_report.csv)
+- **Markdown Export:** [`reports/student_risk_report.md`](reports/student_risk_report.md)
 
-### Preview of Generated Report
+### Sample Report Preview
 
 | Student | Attendance | Marks | Risk | Recommendation |
 | :--- | :---: | :---: | :---: | :--- |
@@ -179,20 +264,49 @@ The system includes automated batch report generation, saving the results in bot
 
 ---
 
-## 🚀 How to Run
+## 🚀 Quickstart & Reproduction Guide
 
-### Option 1: Run the End-to-End Python Script
-```powershell
-# Activate environment and run pipeline
-.\.venv\Scripts\python solution.py
+### Prerequisites
+- Python 3.10+ installed
+- Git installed
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Ranker-AdhipKumar/Student-report-generation.git
+cd Student-report-generation
 ```
-This executes the full data cleaning, trains all 4 models, prints comparative metrics, validates individual sample predictions, and generates the reports in `reports/`.
 
-### Option 2: Generate All Charts
-```powershell
-.\.venv\Scripts\python generate_visualizations.py
+### 2. Setup Virtual Environment & Install Dependencies
+```bash
+# Create and activate virtual environment
+python -m venv .venv
+source .venv/bin/activate      # On Linux/macOS
+.\.venv\Scripts\activate       # On Windows PowerShell
+
+# Install dependencies
+pip install -r requirements.txt
 ```
-Generates all 6 analytical and evaluation figures in the `images/` directory.
 
-### Option 3: Run Interactive Jupyter Notebook
-Open `student_risk_analysis.ipynb` in VS Code, JupyterLab, or Google Colab and run all cells to step through the story, markdown narrative, and interactive graphs.
+### 3. Run the End-to-End ML Pipeline
+```bash
+python solution.py
+```
+*Executes the complete workflow: data sanitization, model training, evaluation tables, sample diagnostic predictions, and report generation in `reports/`.*
+
+### 4. Re-generate All High-Resolution Visualizations
+```bash
+python generate_visualizations.py
+```
+*Generates and saves all 6 analytical and evaluation figures into the `images/` directory.*
+
+### 5. Open Interactive Jupyter Notebook
+```bash
+jupyter notebook student_risk_analysis.ipynb
+```
+*Walks through the entire data science story cell-by-cell with interactive charts, annotations, and individual query functions.*
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) - feel free to use and adapt this system for academic and educational research.
