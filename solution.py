@@ -1,19 +1,18 @@
 """
 ================================================================================
-Developer Community SASTRA & GDG On Campus - AI/ML Recruitment Task
+EduPulse AI: Intelligent Student Academic Risk Assessment & Intervention System
 ================================================================================
-Student Academic Risk Identification & Intervention Recommendation System
+An AI/ML-powered early warning and diagnostic intervention recommendation system
 ================================================================================
-Author: AI/ML Recruitment Candidate
 Dataset: dcs_student_data.csv (Kaggle: ganeshkumarofficial/student-dataset)
 
-Deliverables covered:
+Core Capabilities:
 1. Data Exploration & Insight Extraction
 2. Robust Preprocessing & Anomaly Rectification
 3. Multi-Algorithm ML Model Training & Comparison
 4. Multi-Metric Evaluation (Accuracy, Precision, Recall, F1, Confusion Matrix)
 5. Individual Prediction & Personalized Recommendation Engine
-6. Automation: Automated Report Generation (Student | Attendance | Risk | Recommendation)
+6. Automated Reporting Pipeline (Student | Attendance | Risk | Recommendation)
 ================================================================================
 """
 
@@ -247,7 +246,7 @@ class StudentRiskSystem:
 
     def predict_single_student(self, student_id=None, row_index=None):
         """
-        Demonstrates the exact output structure required in Section 5 of the recruitment prompt:
+        Generates individual prediction and diagnostic recommendation output:
         Student: [Name / ID]
         Attendance: [xx]%
         Marks: [xx]
@@ -342,7 +341,7 @@ if __name__ == "__main__":
     eval_df = system.train_and_evaluate()
     
     print("\n" + "=" * 70)
-    print("SECTION 5 VERIFICATION: INDIVIDUAL SAMPLE PREDICTIONS")
+    print("INDIVIDUAL STUDENT DIAGNOSTIC PREDICTIONS")
     print("=" * 70)
     # Showcase 3 specific students (High, Medium, Low risk scenarios)
     system.predict_single_student(row_index=0)
@@ -351,6 +350,6 @@ if __name__ == "__main__":
     print("-" * 50)
     system.predict_single_student(row_index=2)
 
-    # Section 6: Automated Bonus Report
+    # Automated Report Generation
     system.generate_automated_report(n_sample=1000)
-    print("\n[SUCCESS] End-to-end recruitment task execution completed.")
+    print("\n[SUCCESS] EduPulse AI pipeline execution completed successfully.")
