@@ -19,21 +19,20 @@ def add_code(source):
     })
 
 # Cell 1: Header
-add_md("""# Developer Community SASTRA & Google Developer Groups On Campus
-## AI/ML Recruitment Task: Student Academic Risk Identification & Intervention System
-**Author:** AI/ML Recruitment Candidate  
+add_md("""# EduPulse AI: Intelligent Student Academic Risk Assessment & Intervention System
+## An End-to-End AI/ML Diagnostic Pipeline for Early Warning & Academic Support
 **Dataset:** `dcs_student_data.csv` (Kaggle: `ganeshkumarofficial/student-dataset`)  
 
 ---
 
 ### Executive Overview
-Educational institutions require early-warning systems to proactively identify students struggling academically or disengaged from coursework before midterms and final semester examinations. This notebook implements an end-to-end Machine Learning pipeline fulfilling all recruitment task requirements:
-1. **Data Exploration (EDA):** In-depth investigation of student distributions, anomalies, and the relationship between attendance and marks.
-2. **Data Preprocessing:** Robust cleaning addressing missing values, corrupted strings, out-of-bounds metrics, duplicate records, and feature selection.
-3. **Domain-Grounded Risk Formulation:** Defining clear, institutional-grade criteria for **Low**, **Medium**, and **High Risk** students.
+Educational institutions require early-warning predictive systems to proactively identify students struggling academically or disengaged from coursework well before end-semester examinations. This project implements an end-to-end Machine Learning pipeline:
+1. **Data Exploration (EDA):** In-depth investigation of student distributions, anomalies, and the correlation between attendance and academic performance.
+2. **Data Preprocessing:** Robust cleaning addressing missing values, corrupted strings, out-of-bounds metrics, duplicate records, and feature engineering.
+3. **Domain-Grounded Risk Formulation:** Defining clear, institutional-grade criteria for **Low**, **Medium**, and **High Risk** students based on attendance bylaws and academic passing thresholds.
 4. **Model Architecture & Evaluation:** Training and comparing **Logistic Regression**, **Decision Tree**, **Random Forest**, and **Gradient Boosting** across Accuracy, Precision, Recall, F1-score, and Confusion Matrices.
 5. **Interactive Prediction & Diagnostic Recommendations:** Delivering automated, student-specific feedback tailored to individual root causes.
-6. **Bonus Automation:** Generating a batch institutional intervention report (`Student | Attendance | Risk | Recommendation`).""")
+6. **Automated Reporting Pipeline:** Generating a batch institutional intervention report (`Student | Attendance | Risk | Recommendation`).""")
 
 # Cell 2: Imports
 add_code("""import os
@@ -178,9 +177,9 @@ add_md("""---
 ## 3. Institutional Risk Criteria Definition
 
 ### Rationale and Approach:
-In higher educational environments (such as SASTRA Deemed University and global technical institutes), student intervention systems must operate on early-warning thresholds:
+In higher educational environments and technical universities, student intervention systems operate on early-warning thresholds:
 1. **Attendance Threshold**:
-   - SASTRA/UGC mandates a **75% minimum attendance** threshold to be eligible for end-semester examinations.
+   - Institutional and university regulations mandate a **75% minimum attendance** threshold to be eligible for end-semester examinations.
    - Any student with **Attendance < 65%** faces severe detention or debarment.
    - Attendance between **65% and 80%** is a cautionary zone requiring warning letters.
 2. **Academic Performance (Marks Threshold)**:
@@ -348,8 +347,8 @@ plt.show()""")
 add_md("""---
 ## 5. Prediction & Diagnostic Recommendation Engine
 
-### Prompt Requirement:
-The system must generate tailored outputs strictly conforming to:
+### Diagnostic Output Specification:
+The system generates structured, student-specific intervention outputs:
 ```
 Student: B
 Attendance: 62%
@@ -436,14 +435,14 @@ predict_student_status(0)
 predict_student_status(1)
 predict_student_status(2)""")
 
-# Cell 17: Markdown - Bonus Automation Report
+# Cell 17: Markdown - Automated Batch Reporting
 add_md("""---
-## 6. Bonus Automation: Institutional Intervention Report
+## 6. Automated Batch Reporting Pipeline
 
-Per task specifications, the system automatically compiles and exports a report containing:
+The system automatically compiles and exports institutional reports containing:
 `Student | Attendance | Risk | Recommendation`
 
-Both a CSV export (`reports/student_risk_report.csv`) and a formatted Markdown report (`reports/student_risk_report.md`) are automatically generated.""")
+Both a structured CSV export (`reports/student_risk_report.csv`) and a formatted Markdown report (`reports/student_risk_report.md`) are generated automatically.""")
 
 # Cell 18: Code - Automated Report Generation
 add_code("""def generate_batch_intervention_report(df_source=clean_df, model=best_model, n=1000, output_csv="reports/student_risk_report.csv"):
